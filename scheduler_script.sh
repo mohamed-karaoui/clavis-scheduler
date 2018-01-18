@@ -1,9 +1,8 @@
 #!/bin/bash
 
-HOME="/home/sergey/clavis/"
-export HOME
+RUNFILE=runfile.txt
 
-gcc -g -lnuma -lm -lutil -pthread /home/sergey/clavis/scheduler.h /home/sergey/clavis/signal-handling.c /home/sergey/clavis/scheduler-tools.c /home/sergey/clavis/scheduler-algorithms.c -o scheduler.out
+gcc -g scheduler.h signal-handling.c scheduler-tools.c scheduler-algorithms.c -o scheduler.out -lnuma -lm -lutil -pthread 
 
 modprobe msr
 
