@@ -1,0 +1,504 @@
+
+
+
+
+
+============================ 1246112634 ==============================
+
+
+
+
+
+418.78
+418.77 user 0.01 system 6:58.78 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+418.96
+418.94 user 0.01 system 6:58.96 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+570.18
+565.48 user 0.26 system 9:30.18 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+570.08
+569.93 user 0.16 system 9:30.08 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+418.60
+418.57 user 0.03 system 6:58.60 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+419.42
+419.38 user 0.04 system 6:59.42 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+528.96
+528.89 user 0.07 system 8:48.96 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+597.33
+597.22 user 0.13 system 9:57.33 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+1209.03
+1208.92 user 0.09 system 20:09.03 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+1216.80
+1213.22 user 0.18 system 20:16.80 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+420.91
+420.90 user 0.02 system 7:00.91 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+419.48
+419.47 user 0.02 system 6:59.48 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+418.28
+418.26 user 0.02 system 6:58.28 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+418.41
+418.36 user 0.05 system 6:58.41 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+574.57
+574.40 user 0.17 system 9:34.57 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+583.92
+579.35 user 0.29 system 9:43.92 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+418.99
+418.95 user 0.04 system 6:58.99 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+2124.25
+2120.46 user 0.41 system 35:24.25 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx2/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+
+
+419.69
+419.64 user 0.05 system 6:59.69 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+2156.90
+2156.67 user 0.21 system 35:56.90 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+
+
+588.63
+588.52 user 0.12 system 9:48.63 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+579.19
+579.08 user 0.11 system 9:39.19 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+1209.97
+1209.90 user 0.06 system 20:09.97 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+1212.26
+1212.20 user 0.05 system 20:12.26 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+420.07
+418.83 user 0.05 system 7:00.07 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+418.86
+418.82 user 0.05 system 6:58.86 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+524.48
+524.39 user 0.09 system 8:44.48 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+610.01
+609.93 user 0.08 system 10:10.01 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+422.74
+420.56 user 0.15 system 7:02.74 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+419.97
+419.93 user 0.04 system 6:59.97 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+419.20
+419.18 user 0.02 system 6:59.20 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+421.03
+420.98 user 0.05 system 7:01.03 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+699.33
+699.23 user 0.10 system 11:39.33 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+1207.84
+1207.82 user 0.03 system 20:07.84 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+712.24
+705.96 user 0.61 system 11:52.24 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+1211.08
+1211.03 user 0.04 system 20:11.08 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+418.72
+418.71 user 0.01 system 6:58.72 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+419.55
+419.52 user 0.03 system 6:59.55 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+419.37
+419.32 user 0.05 system 6:59.37 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+419.73
+419.69 user 0.03 system 6:59.73 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+708.21
+708.00 user 0.21 system 11:48.21 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+707.53
+701.74 user 0.34 system 11:47.53 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+420.01
+419.97 user 0.04 system 7:00.01 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+420.12
+420.06 user 0.05 system 7:00.12 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+532.06
+531.95 user 0.11 system 8:52.06 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+1207.78
+1207.73 user 0.06 system 20:07.78 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+2675.73
+2675.47 user 0.22 system 44:35.73 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+
+
+2713.93
+2712.26 user 0.36 system 45:13.93 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx2/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+
+
+1212.40
+1212.33 user 0.08 system 20:12.40 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+605.23
+600.15 user 0.45 system 10:05.23 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+418.07
+418.04 user 0.03 system 6:58.07 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+420.10
+420.03 user 0.07 system 7:00.10 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+543.29
+543.10 user 0.20 system 9:03.29 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+419.72
+419.68 user 0.05 system 6:59.72 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+419.84
+419.77 user 0.08 system 6:59.84 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+570.48
+570.38 user 0.11 system 9:30.48 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+418.59
+418.58 user 0.01 system 6:58.59 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+576.35
+571.51 user 0.37 system 9:36.35 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+420.26
+420.25 user 0.01 system 7:00.26 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+1212.62
+1210.23 user 0.18 system 20:12.62 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+545.46
+545.37 user 0.09 system 9:05.46 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+1213.78
+1213.73 user 0.04 system 20:13.78 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+418.73
+418.70 user 0.03 system 6:58.73 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+418.85
+418.76 user 0.09 system 6:58.85 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+557.03
+552.49 user 0.29 system 9:17.03 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+546.83
+546.71 user 0.12 system 9:06.83 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+419.59
+419.53 user 0.05 system 6:59.59 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+420.02
+419.96 user 0.05 system 7:00.02 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+2030.95
+2030.75 user 0.19 system 33:50.95 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx2/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+
+
+2095.77
+2095.41 user 0.27 system 34:55.77 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+
+
+554.21
+549.54 user 0.34 system 9:14.21 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+419.61
+419.53 user 0.08 system 6:59.61 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+419.29
+418.35 user 0.10 system 6:59.29 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+1211.08
+1211.07 user 0.02 system 20:11.08 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+676.08
+675.93 user 0.15 system 11:16.08 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+1210.63
+1210.62 user 0.02 system 20:10.63 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+419.21
+419.15 user 0.06 system 6:59.21 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+422.45
+419.93 user 0.18 system 7:02.45 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+623.72
+623.60 user 0.13 system 10:23.72 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+526.01
+525.93 user 0.10 system 8:46.01 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+418.69
+418.61 user 0.09 system 6:58.69 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+422.65
+420.14 user 0.09 system 7:02.65 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+597.58
+597.49 user 0.09 system 9:57.58 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+528.32
+528.25 user 0.08 system 8:48.32 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+418.38
+418.33 user 0.05 system 6:58.38 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+422.28
+419.61 user 0.15 system 7:02.28 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+1210.99
+1210.93 user 0.07 system 20:10.99 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+1211.06
+1211.02 user 0.04 system 20:11.06 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+
+
+418.85
+418.81 user 0.04 system 6:58.85 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+603.76
+603.61 user 0.17 system 10:03.76 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+423.13
+420.77 user 0.17 system 7:03.13 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+529.68
+529.64 user 0.05 system 8:49.68 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+2219.51
+2219.17 user 0.21 system 36:59.51 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx2/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+
+
+418.41
+418.40 user 0.01 system 6:58.41 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+
+
+419.75
+418.72 user 0.12 system 6:59.75 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+
+
+531.48
+531.39 user 0.10 system 8:51.48 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+629.82
+629.09 user 0.10 system 10:29.82 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+
+
+2663.83
+2663.62 user 0.22 system 44:23.83 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+
+
+418.68
+418.63 user 0.06 system 6:58.68 elapsed
+that was pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn

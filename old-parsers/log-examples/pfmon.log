@@ -1,0 +1,3772 @@
+
+
+
+
+
+============================ 1246112634 ==============================
+
+
+
+
+#
+# date: Sat Jun 27 07:31:30 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66740981760 bytes (63649.2 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17000655849 L3_CACHE_MISSES:ALL
+1078107849019 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:31:51 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66737971200 bytes (63646.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  18154529495 L3_CACHE_MISSES:ALL
+1078106697102 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:33:41 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66835161088 bytes (63739.0 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 22827699112 L3_CACHE_MISSES:ALL
+377046560591 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:34:28 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66834124800 bytes (63738.0 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 23986404051 L3_CACHE_MISSES:ALL
+376746085140 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:38:29 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66656571392 bytes (63568.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17014023281 L3_CACHE_MISSES:ALL
+1078107158678 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:38:51 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66655653888 bytes (63567.8 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17047703667 L3_CACHE_MISSES:ALL
+1078106899635 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:43:17 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66717835264 bytes (63627.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 20833984324 L3_CACHE_MISSES:ALL
+376737798569 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:43:38 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66720546816 bytes (63629.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 23986457069 L3_CACHE_MISSES:ALL
+376751327408 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:44:04 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66645794816 bytes (63558.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  47366489470 L3_CACHE_MISSES:ALL
+2374904873673 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:45:24 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66619559936 bytes (63533.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  50051575956 L3_CACHE_MISSES:ALL
+2375238039603 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:45:30 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66573545472 bytes (63489.5 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17719631910 L3_CACHE_MISSES:ALL
+1078107608660 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:45:50 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66571354112 bytes (63487.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17788705585 L3_CACHE_MISSES:ALL
+1078107331756 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:52:28 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66478751744 bytes (63399.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  19364375906 L3_CACHE_MISSES:ALL
+1078106817337 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:52:49 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66476519424 bytes (63396.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  19370708494 L3_CACHE_MISSES:ALL
+1078106585446 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:52:51 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66596892672 bytes (63511.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24209986978 L3_CACHE_MISSES:ALL
+376746532382 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:53:22 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66598350848 bytes (63513.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24529437876 L3_CACHE_MISSES:ALL
+377073105292 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:59:27 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66391085056 bytes (63315.5 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17492050998 L3_CACHE_MISSES:ALL
+1078106844986 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:59:46 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66428198912 bytes (63350.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx2/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+#
+# monitoring mode  : per-thread
+#
+#
+  90541469635 L3_CACHE_MISSES:ALL
+3123097103255 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:59:49 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66392195072 bytes (63316.5 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16753105473 L3_CACHE_MISSES:ALL
+1078106816333 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 07:59:57 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66433085440 bytes (63355.5 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+#
+# monitoring mode  : per-thread
+#
+#
+  91507535406 L3_CACHE_MISSES:ALL
+3122887113337 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:02:40 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66485882880 bytes (63405.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 23549825088 L3_CACHE_MISSES:ALL
+376750412065 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:03:01 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66489896960 bytes (63409.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 23563991047 L3_CACHE_MISSES:ALL
+376748270474 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:04:14 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66397597696 bytes (63321.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  49528721227 L3_CACHE_MISSES:ALL
+2374904915992 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:05:37 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66375086080 bytes (63300.2 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  49857401110 L3_CACHE_MISSES:ALL
+2374905033260 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:06:27 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66318848000 bytes (63246.6 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16519166216 L3_CACHE_MISSES:ALL
+1078233786947 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:06:47 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66317127680 bytes (63244.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16469060847 L3_CACHE_MISSES:ALL
+1078107764305 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:11:46 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66371952640 bytes (63297.2 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 20237724537 L3_CACHE_MISSES:ALL
+376737385747 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:12:50 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66360692736 bytes (63286.5 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 23365067480 L3_CACHE_MISSES:ALL
+376754354791 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:13:30 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66238930944 bytes (63170.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  15957463782 L3_CACHE_MISSES:ALL
+1078321288961 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:13:47 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66235199488 bytes (63166.8 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  15800026032 L3_CACHE_MISSES:ALL
+1078107697167 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:20:29 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66142167040 bytes (63078.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  12044568875 L3_CACHE_MISSES:ALL
+1078106677162 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:20:48 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66140229632 bytes (63076.2 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  14616205622 L3_CACHE_MISSES:ALL
+1078107459809 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:23:25 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66225278976 bytes (63157.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24155534953 L3_CACHE_MISSES:ALL
+376772346013 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:24:21 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66144628736 bytes (63080.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  39376320997 L3_CACHE_MISSES:ALL
+2374902791828 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:24:42 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66215743488 bytes (63148.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24487683100 L3_CACHE_MISSES:ALL
+377168529224 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:25:48 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66128535552 bytes (63065.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  43295494583 L3_CACHE_MISSES:ALL
+2374905253024 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:27:28 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66059137024 bytes (62998.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  12260191576 L3_CACHE_MISSES:ALL
+1078106775940 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:27:48 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66055544832 bytes (62995.5 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  14504626810 L3_CACHE_MISSES:ALL
+1078106800795 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:34:27 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65965142016 bytes (62909.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  12452798325 L3_CACHE_MISSES:ALL
+1078106800396 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:34:48 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65963409408 bytes (62907.6 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  14346393365 L3_CACHE_MISSES:ALL
+1078107010433 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:35:13 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66079670272 bytes (63018.5 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24245020856 L3_CACHE_MISSES:ALL
+376772664526 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:36:30 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 66066665472 bytes (63006.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24663545877 L3_CACHE_MISSES:ALL
+377165042888 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:41:27 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65878421504 bytes (62826.6 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16311538413 L3_CACHE_MISSES:ALL
+1078106941118 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:41:48 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65875603456 bytes (62823.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16892617367 L3_CACHE_MISSES:ALL
+1078107481403 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:44:05 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65966292992 bytes (62910.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 21428004889 L3_CACHE_MISSES:ALL
+376738832217 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:44:29 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65893658624 bytes (62841.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  41716587394 L3_CACHE_MISSES:ALL
+2374902752235 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:44:33 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65887821824 bytes (62835.5 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+#
+# monitoring mode  : per-thread
+#
+#
+  91928482151 L3_CACHE_MISSES:ALL
+3122990081829 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:45:00 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65887584256 bytes (62835.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx2/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+#
+# monitoring mode  : per-thread
+#
+#
+  93003277523 L3_CACHE_MISSES:ALL
+3123093499010 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:46:00 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65883394048 bytes (62831.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  45904140687 L3_CACHE_MISSES:ALL
+2374907594300 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:46:35 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65949794304 bytes (62894.6 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24831035039 L3_CACHE_MISSES:ALL
+377088290881 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:48:25 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65807458304 bytes (62758.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17391749757 L3_CACHE_MISSES:ALL
+1078106572357 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:48:48 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65804664832 bytes (62756.2 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17697507068 L3_CACHE_MISSES:ALL
+1078106910612 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:53:09 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65864695808 bytes (62813.5 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 23179179632 L3_CACHE_MISSES:ALL
+376740718938 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:55:25 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65718898688 bytes (62674.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17330006029 L3_CACHE_MISSES:ALL
+1078106869824 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:55:48 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65715777536 bytes (62671.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17323974279 L3_CACHE_MISSES:ALL
+1078106989560 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 08:56:05 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65831235584 bytes (62781.6 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 23634012385 L3_CACHE_MISSES:ALL
+376745468644 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:02:24 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65627860992 bytes (62587.6 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17980999386 L3_CACHE_MISSES:ALL
+1078106641683 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:02:45 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65744560128 bytes (62698.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24201395390 L3_CACHE_MISSES:ALL
+377067502026 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:02:48 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65708773376 bytes (62664.8 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  18203811072 L3_CACHE_MISSES:ALL
+1078106854592 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:04:42 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65648168960 bytes (62607.0 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  51493759667 L3_CACHE_MISSES:ALL
+2375125667232 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:05:11 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65716121600 bytes (62671.8 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24024855625 L3_CACHE_MISSES:ALL
+376741217922 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:06:14 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65631346688 bytes (62590.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  51679637367 L3_CACHE_MISSES:ALL
+2374904697281 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:09:22 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65539518464 bytes (62503.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  18552372124 L3_CACHE_MISSES:ALL
+1078106735109 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:09:47 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65536507904 bytes (62500.5 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  18460210509 L3_CACHE_MISSES:ALL
+1078106650788 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:12:02 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65627586560 bytes (62587.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24512561909 L3_CACHE_MISSES:ALL
+377052794080 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:14:18 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65600425984 bytes (62561.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24405687798 L3_CACHE_MISSES:ALL
+376741408280 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:16:22 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65452818432 bytes (62420.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  18725592855 L3_CACHE_MISSES:ALL
+1078106817813 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:16:47 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65448869888 bytes (62416.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  18605719683 L3_CACHE_MISSES:ALL
+1078106868056 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:18:51 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65462325248 bytes (62429.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx2/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+#
+# monitoring mode  : per-thread
+#
+#
+  88232207727 L3_CACHE_MISSES:ALL
+3122860379879 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:19:29 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65459818496 bytes (62427.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+#
+# monitoring mode  : per-thread
+#
+#
+  90368209996 L3_CACHE_MISSES:ALL
+3122875859996 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:21:16 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65522200576 bytes (62486.8 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 23942420318 L3_CACHE_MISSES:ALL
+377050315706 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:23:22 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65378349056 bytes (62349.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16209009356 L3_CACHE_MISSES:ALL
+1078107396881 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:23:46 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65375723520 bytes (62347.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  15824659445 L3_CACHE_MISSES:ALL
+1078190324718 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:24:53 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65404952576 bytes (62375.0 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  51262745405 L3_CACHE_MISSES:ALL
+2374905032501 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:25:34 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65471049728 bytes (62438.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 25202842598 L3_CACHE_MISSES:ALL
+376767108567 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:26:25 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65388900352 bytes (62359.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  50557784264 L3_CACHE_MISSES:ALL
+2374903926409 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:30:21 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65287819264 bytes (62263.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  14465390485 L3_CACHE_MISSES:ALL
+1078107077320 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:30:49 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65284718592 bytes (62260.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  14822900457 L3_CACHE_MISSES:ALL
+1078342942920 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:31:40 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65393774592 bytes (62364.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 23683618657 L3_CACHE_MISSES:ALL
+376756343743 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:34:20 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65362022400 bytes (62334.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 20069070895 L3_CACHE_MISSES:ALL
+376739016772 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:37:20 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65202249728 bytes (62181.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16222173961 L3_CACHE_MISSES:ALL
+1078106614036 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:37:51 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65197096960 bytes (62176.8 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16166377158 L3_CACHE_MISSES:ALL
+1078343151076 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:41:38 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65267617792 bytes (62244.1 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24511198573 L3_CACHE_MISSES:ALL
+376751296478 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:43:08 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65251852288 bytes (62229.0 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 20629379917 L3_CACHE_MISSES:ALL
+376738818715 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:44:18 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65117868032 bytes (62101.2 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16226307481 L3_CACHE_MISSES:ALL
+1078106566754 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:44:54 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65112010752 bytes (62095.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16446594820 L3_CACHE_MISSES:ALL
+1078342849626 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:45:04 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65154048000 bytes (62135.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd2/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  49151185587 L3_CACHE_MISSES:ALL
+2374903379774 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:46:36 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65131835392 bytes (62114.6 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../namd/namd_base.amd64-m64-gcc43-nn --input namd.input --iterations 38 --output namd.out
+#
+# monitoring mode  : per-thread
+#
+#
+  49556150230 L3_CACHE_MISSES:ALL
+2374903327697 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:51:17 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65024139264 bytes (62011.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16665968150 L3_CACHE_MISSES:ALL
+1078106750565 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:51:41 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65140043776 bytes (62122.4 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24908548807 L3_CACHE_MISSES:ALL
+376752472704 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:51:57 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65027174400 bytes (62014.7 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16707677832 L3_CACHE_MISSES:ALL
+1078334827109 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:51:58 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65146994688 bytes (62129.0 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 20965248317 L3_CACHE_MISSES:ALL
+376738593721 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:55:50 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65010192384 bytes (61998.6 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx2/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+#
+# monitoring mode  : per-thread
+#
+#
+  89308220193 L3_CACHE_MISSES:ALL
+3122898296655 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:58:15 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 64942350336 bytes (61933.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16674029394 L3_CACHE_MISSES:ALL
+1078106566115 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 09:58:57 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 64934944768 bytes (61926.8 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess2/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  17107092658 L3_CACHE_MISSES:ALL
+1078210759318 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 10:00:49 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65031925760 bytes (62019.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 21317775188 L3_CACHE_MISSES:ALL
+376738897546 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 10:02:11 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 65018302464 bytes (62006.3 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../soplex2/soplex_base.amd64-m64-gcc43-nn -s1 -e -m45000 pds-50.mps
+#
+# monitoring mode  : per-thread
+#
+#
+ 24445279622 L3_CACHE_MISSES:ALL
+376802894533 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 10:03:53 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 64918548480 bytes (61911.2 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../sphinx/sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4
+#
+# monitoring mode  : per-thread
+#
+#
+ 100915275043 L3_CACHE_MISSES:ALL
+3122983976662 RETIRED_INSTRUCTIONS
+#
+# date: Sat Jun 27 10:05:14 2009
+#
+# hostname: valencia.cs.sfu.ca
+#
+# kernel version: Linux 2.6.25-gentoo-r6 #7 SMP Fri May 15 02:32:29 PDT 2009
+#
+# pfmon version: 3.8
+# kernel perfmon version: 2.8
+#
+#
+# page size: 4096 bytes
+#
+# CLK_TCK: 1000000000 ticks/second
+#
+# CPU configured: 16
+# CPU online    : 16
+#
+# physical memory          : 67762982912 bytes (64623.8 MB)
+# physical memory available: 64863748096 bytes (61858.9 MB)
+#
+# host CPUs:  16-way 2300MHz/0.5MB -- Quad-Core AMD Opteron(tm) Processor 8356 (stepping 3)
+#
+#
+# information for set0:
+#	number of runs : 0
+#	active duration: 0 ns
+#	PMD0: L3_CACHE_MISSES:ALL = kernel+user
+#	PMD1: RETIRED_INSTRUCTIONS = kernel+user
+#
+#
+# pfmon command line: pfmon --follow-all --aggregate-results -0 -3 --events=L3_CACHE_MISSES:ALL,RETIRED_INSTRUCTIONS --outfile=/home/sba70/scheduler/newest-animal-8/pfmon.log --append --with-header taskset -c 2,3,6,7,10,11,14,15 ../gamess/gamess_base.amd64-m64-gcc43-nn
+#
+# monitoring mode  : per-thread
+#
+#
+  16256071752 L3_CACHE_MISSES:ALL
+1078106627097 RETIRED_INSTRUCTIONS

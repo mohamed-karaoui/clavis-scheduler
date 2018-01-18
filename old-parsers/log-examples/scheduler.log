@@ -1,0 +1,885 @@
+
+
+
+
+
+============================ 1246112634 ==============================
+
+
+
+
+soplex sAppRun[0] will be launched 64 seconds later.
+sphinx sAppRun[1] will be launched 7 seconds later.
+gamess sAppRun[2] will be launched 38 seconds later.
+namd sAppRun[3] will be launched 74 seconds later.
+soplex2 sAppRun[4] will be launched 17 seconds later.
+sphinx2 sAppRun[5] will be launched 28 seconds later.
+gamess2 sAppRun[6] will be launched 59 seconds later.
+namd2 sAppRun[7] will be launched 1 seconds later.
+namd2 sAppRun[7] (#0): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd2/
+namd2 sAppRun[7] (#1): launched 1-th time (pid = 5620)
+namd2 sAppRun[7].aiTIDs[0] (#1): thread starts: sAppRun[7].aiTIDs[0] == 5620
+namd2 sAppRun[7].aiTIDs[0] == 5620: migrated 1-th time. New cpu affinity mask 0x4
+sphinx sAppRun[1] (#0): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/sphinx/
+sphinx sAppRun[1] (#1): launched 1-th time (pid = 5625)
+sphinx sAppRun[1].aiTIDs[0] (#1): thread starts: sAppRun[1].aiTIDs[0] == 5625
+sphinx sAppRun[1].aiTIDs[0] == 5625: migrated 1-th time. New cpu affinity mask 0x8
+soplex2 sAppRun[4] (#0): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+soplex2 sAppRun[4] (#1): launched 1-th time (pid = 5630)
+soplex2 sAppRun[4].aiTIDs[0] (#1): thread starts: sAppRun[4].aiTIDs[0] == 5630
+soplex2 sAppRun[4].aiTIDs[0] == 5630: migrated 1-th time. New cpu affinity mask 0x40
+sphinx2 sAppRun[5] (#0): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/sphinx2/
+sphinx2 sAppRun[5] (#1): launched 1-th time (pid = 5635)
+sphinx2 sAppRun[5].aiTIDs[0] (#1): thread starts: sAppRun[5].aiTIDs[0] == 5635
+sphinx2 sAppRun[5].aiTIDs[0] == 5635: migrated 1-th time. New cpu affinity mask 0x80
+gamess sAppRun[2] (#0): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#1): launched 1-th time (pid = 5640)
+gamess sAppRun[2].aiTIDs[0] (#1): thread starts: sAppRun[2].aiTIDs[0] == 5640
+gamess sAppRun[2].aiTIDs[0] == 5640: migrated 1-th time. New cpu affinity mask 0x400
+gamess2 sAppRun[6] (#0): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#1): launched 1-th time (pid = 5645)
+gamess2 sAppRun[6].aiTIDs[0] (#1): thread starts: sAppRun[6].aiTIDs[0] == 5645
+gamess2 sAppRun[6].aiTIDs[0] == 5645: migrated 1-th time. New cpu affinity mask 0x800
+soplex sAppRun[0] (#0): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+soplex sAppRun[0] (#1): launched 1-th time (pid = 5650)
+soplex sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 5650
+soplex sAppRun[0].aiTIDs[0] == 5650: migrated 1-th time. New cpu affinity mask 0x4000
+namd sAppRun[3] (#0): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd/
+namd sAppRun[3] (#1): launched 1-th time (pid = 5655)
+namd sAppRun[3].aiTIDs[0] (#1): thread starts: sAppRun[3].aiTIDs[0] == 5655
+namd sAppRun[3].aiTIDs[0] == 5655: migrated 1-th time. New cpu affinity mask 0x8000
+Pid 5637 exited.
+gamess sAppRun[2] (#1): end of a run was detected: sAppRun[2].iPID == 5640. Execution time: 418 sec.
+gamess sAppRun[2].aiTIDs[0] (#1): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 5640
+gamess sAppRun[2] (#1): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#2): launched 2-th time (pid = 6007)
+gamess sAppRun[2].aiTIDs[0] (#2): thread starts: sAppRun[2].aiTIDs[0] == 6007
+gamess sAppRun[2].aiTIDs[0] == 6007: migrated 2-th time. New cpu affinity mask 0x400
+gamess2 sAppRun[6] (#1): end of a run was detected: sAppRun[6].iPID == 5645. Execution time: 418 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#1): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 5645
+gamess2 sAppRun[6] (#1): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+Pid 5642 exited.
+gamess2 sAppRun[6] (#2): launched 2-th time (pid = 6100)
+gamess2 sAppRun[6].aiTIDs[0] (#2): thread starts: sAppRun[6].aiTIDs[0] == 6100
+gamess2 sAppRun[6].aiTIDs[0] == 6100: migrated 2-th time. New cpu affinity mask 0x800
+soplex2 sAppRun[4] (#1): end of a run was detected: sAppRun[4].iPID == 5630. Execution time: 570 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#1): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 5630
+soplex2 sAppRun[4] (#1): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+Pid 5627 exited.
+namd sAppRun[3].aiTIDs[0] == 5655: migrated 2-th time. New cpu affinity mask 0x40
+soplex2 sAppRun[4] (#2): launched 2-th time (pid = 6560)
+soplex2 sAppRun[4].aiTIDs[0] (#2): thread starts: sAppRun[4].aiTIDs[0] == 6560
+soplex2 sAppRun[4].aiTIDs[0] == 6560: migrated 2-th time. New cpu affinity mask 0x8000
+doOptimisticAssignment is launched for threads sAppRun[2].aiTIDs[0] (gamess) and sAppRun[1].aiTIDs[0] (sphinx)
+gamess sAppRun[2].aiTIDs[0] == 6007: migrated 3-th time. New cpu affinity mask 0x8
+sphinx sAppRun[1].aiTIDs[0] == 5625: migrated 2-th time. New cpu affinity mask 0x400
+Pid 5647 exited.
+soplex sAppRun[0] (#1): end of a run was detected: sAppRun[0].iPID == 5650. Execution time: 570 sec.
+soplex sAppRun[0].aiTIDs[0] (#1): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 5650
+soplex sAppRun[0] (#1): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+soplex sAppRun[0] (#2): launched 2-th time (pid = 6679)
+soplex sAppRun[0].aiTIDs[0] (#2): thread starts: sAppRun[0].aiTIDs[0] == 6679
+soplex sAppRun[0].aiTIDs[0] == 6679: migrated 2-th time. New cpu affinity mask 0x4000
+Pid 6004 exited.
+gamess sAppRun[2] (#2): end of a run was detected: sAppRun[2].iPID == 6007. Execution time: 419 sec.
+gamess sAppRun[2].aiTIDs[0] (#2): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6007
+gamess sAppRun[2] (#2): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#3): launched 3-th time (pid = 6692)
+gamess sAppRun[2].aiTIDs[0] (#3): thread starts: sAppRun[2].aiTIDs[0] == 6692
+gamess sAppRun[2].aiTIDs[0] == 6692: migrated 4-th time. New cpu affinity mask 0x8
+gamess2 sAppRun[6] (#2): end of a run was detected: sAppRun[6].iPID == 6100. Execution time: 420 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#2): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6100
+gamess2 sAppRun[6] (#2): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+Pid 6097 exited.
+gamess2 sAppRun[6] (#3): launched 3-th time (pid = 6696)
+gamess2 sAppRun[6].aiTIDs[0] (#3): thread starts: sAppRun[6].aiTIDs[0] == 6696
+gamess2 sAppRun[6].aiTIDs[0] == 6696: migrated 3-th time. New cpu affinity mask 0x800
+Pid 6676 exited.
+soplex sAppRun[0] (#2): end of a run was detected: sAppRun[0].iPID == 6679. Execution time: 529 sec.
+soplex sAppRun[0].aiTIDs[0] (#2): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6679
+soplex sAppRun[0] (#2): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+soplex sAppRun[0] (#3): launched 3-th time (pid = 6700)
+soplex sAppRun[0].aiTIDs[0] (#3): thread starts: sAppRun[0].aiTIDs[0] == 6700
+soplex sAppRun[0].aiTIDs[0] == 6700: migrated 3-th time. New cpu affinity mask 0x4000
+Pid 6557 exited.
+soplex2 sAppRun[4] (#2): end of a run was detected: sAppRun[4].iPID == 6560. Execution time: 597 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#2): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6560
+soplex2 sAppRun[4] (#2): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+namd sAppRun[3].aiTIDs[0] == 5655: migrated 3-th time. New cpu affinity mask 0x8000
+soplex2 sAppRun[4] (#3): launched 3-th time (pid = 6704)
+soplex2 sAppRun[4].aiTIDs[0] (#3): thread starts: sAppRun[4].aiTIDs[0] == 6704
+soplex2 sAppRun[4].aiTIDs[0] == 6704: migrated 3-th time. New cpu affinity mask 0x40
+doOptimisticAssignment is launched for threads sAppRun[3].aiTIDs[0] (namd) and sAppRun[1].aiTIDs[0] (sphinx)
+namd sAppRun[3].aiTIDs[0] == 5655: migrated 4-th time. New cpu affinity mask 0x400
+sphinx sAppRun[1].aiTIDs[0] == 5625: migrated 3-th time. New cpu affinity mask 0x8000
+namd2 sAppRun[7] (#1): end of a run was detected: sAppRun[7].iPID == 5620. Execution time: 1209 sec.
+namd2 sAppRun[7].aiTIDs[0] (#1): thread finishes due to application's termination: sAppRun[7].aiTIDs[0] == 5620
+namd2 sAppRun[7] (#1): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd2/
+Pid 5617 exited.
+namd2 sAppRun[7] (#2): launched 2-th time (pid = 6708)
+namd2 sAppRun[7].aiTIDs[0] (#2): thread starts: sAppRun[7].aiTIDs[0] == 6708
+namd2 sAppRun[7].aiTIDs[0] == 6708: migrated 2-th time. New cpu affinity mask 0x4
+Pid 5652 exited.
+namd sAppRun[3] (#1): end of a run was detected: sAppRun[3].iPID == 5655. Execution time: 1216 sec.
+namd sAppRun[3].aiTIDs[0] (#1): thread finishes due to application's termination: sAppRun[3].aiTIDs[0] == 5655
+namd sAppRun[3] (#1): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd/
+namd sAppRun[3] (#2): launched 2-th time (pid = 6712)
+namd sAppRun[3].aiTIDs[0] (#2): thread starts: sAppRun[3].aiTIDs[0] == 6712
+namd sAppRun[3].aiTIDs[0] == 6712: migrated 5-th time. New cpu affinity mask 0x400
+Pid 6689 exited.
+gamess sAppRun[2] (#3): end of a run was detected: sAppRun[2].iPID == 6692. Execution time: 421 sec.
+gamess sAppRun[2].aiTIDs[0] (#3): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6692
+gamess sAppRun[2] (#3): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#4): launched 4-th time (pid = 6716)
+gamess sAppRun[2].aiTIDs[0] (#4): thread starts: sAppRun[2].aiTIDs[0] == 6716
+gamess sAppRun[2].aiTIDs[0] == 6716: migrated 5-th time. New cpu affinity mask 0x8
+Pid 6693 exited.
+gamess2 sAppRun[6] (#3): end of a run was detected: sAppRun[6].iPID == 6696. Execution time: 419 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#3): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6696
+gamess2 sAppRun[6] (#3): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#4): launched 4-th time (pid = 6720)
+gamess2 sAppRun[6].aiTIDs[0] (#4): thread starts: sAppRun[6].aiTIDs[0] == 6720
+gamess2 sAppRun[6].aiTIDs[0] == 6720: migrated 4-th time. New cpu affinity mask 0x800
+Pid 6713 exited.
+gamess sAppRun[2] (#4): end of a run was detected: sAppRun[2].iPID == 6716. Execution time: 418 sec.
+gamess sAppRun[2].aiTIDs[0] (#4): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6716
+gamess sAppRun[2] (#4): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#5): launched 5-th time (pid = 6724)
+gamess sAppRun[2].aiTIDs[0] (#5): thread starts: sAppRun[2].aiTIDs[0] == 6724
+gamess sAppRun[2].aiTIDs[0] == 6724: migrated 6-th time. New cpu affinity mask 0x8
+Pid 6717 exited.
+gamess2 sAppRun[6] (#4): end of a run was detected: sAppRun[6].iPID == 6720. Execution time: 419 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#4): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6720
+gamess2 sAppRun[6] (#4): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#5): launched 5-th time (pid = 6728)
+gamess2 sAppRun[6].aiTIDs[0] (#5): thread starts: sAppRun[6].aiTIDs[0] == 6728
+gamess2 sAppRun[6].aiTIDs[0] == 6728: migrated 5-th time. New cpu affinity mask 0x800
+Pid 6697 exited.
+soplex sAppRun[0] (#3): end of a run was detected: sAppRun[0].iPID == 6700. Execution time: 574 sec.
+soplex sAppRun[0].aiTIDs[0] (#3): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6700
+soplex sAppRun[0] (#3): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+soplex sAppRun[0] (#4): launched 4-th time (pid = 6732)
+gamess2 sAppRun[6].aiTIDs[0] == 6728: migrated 6-th time. New cpu affinity mask 0x4000
+soplex sAppRun[0].aiTIDs[0] (#4): thread starts: sAppRun[0].aiTIDs[0] == 6732
+soplex sAppRun[0].aiTIDs[0] == 6732: migrated 4-th time. New cpu affinity mask 0x800
+doOptimisticAssignment is launched for threads sAppRun[3].aiTIDs[0] (namd) and sAppRun[0].aiTIDs[0] (soplex)
+namd sAppRun[3].aiTIDs[0] == 6712: migrated 6-th time. New cpu affinity mask 0x800
+soplex sAppRun[0].aiTIDs[0] == 6732: migrated 5-th time. New cpu affinity mask 0x400
+Pid 6701 exited.
+soplex2 sAppRun[4] (#3): end of a run was detected: sAppRun[4].iPID == 6704. Execution time: 584 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#3): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6704
+soplex2 sAppRun[4] (#3): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+gamess sAppRun[2].aiTIDs[0] == 6724: migrated 7-th time. New cpu affinity mask 0x40
+soplex2 sAppRun[4] (#4): launched 4-th time (pid = 6736)
+soplex2 sAppRun[4].aiTIDs[0] (#4): thread starts: sAppRun[4].aiTIDs[0] == 6736
+soplex2 sAppRun[4].aiTIDs[0] == 6736: migrated 4-th time. New cpu affinity mask 0x8
+doOptimisticAssignment is launched for threads sAppRun[5].aiTIDs[0] (sphinx2) and sAppRun[2].aiTIDs[0] (gamess)
+sphinx2 sAppRun[5].aiTIDs[0] == 5635: migrated 2-th time. New cpu affinity mask 0x40
+gamess sAppRun[2].aiTIDs[0] == 6724: migrated 8-th time. New cpu affinity mask 0x80
+Pid 6721 exited.
+gamess sAppRun[2] (#5): end of a run was detected: sAppRun[2].iPID == 6724. Execution time: 419 sec.
+gamess sAppRun[2].aiTIDs[0] (#5): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6724
+gamess sAppRun[2] (#5): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#6): launched 6-th time (pid = 6740)
+gamess sAppRun[2].aiTIDs[0] (#6): thread starts: sAppRun[2].aiTIDs[0] == 6740
+gamess sAppRun[2].aiTIDs[0] == 6740: migrated 9-th time. New cpu affinity mask 0x80
+Pid 5632 exited.
+sphinx2 sAppRun[5] (#1): end of a run was detected: sAppRun[5].iPID == 5635. Execution time: 2124 sec.
+sphinx2 sAppRun[5].aiTIDs[0] (#1): thread finishes due to application's termination: sAppRun[5].aiTIDs[0] == 5635
+sphinx2 sAppRun[5] (#1): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/sphinx2/
+gamess sAppRun[2].aiTIDs[0] == 6740: migrated 10-th time. New cpu affinity mask 0x40
+sphinx2 sAppRun[5] (#2): launched 2-th time (pid = 6744)
+sphinx2 sAppRun[5].aiTIDs[0] (#2): thread starts: sAppRun[5].aiTIDs[0] == 6744
+sphinx2 sAppRun[5].aiTIDs[0] == 6744: migrated 3-th time. New cpu affinity mask 0x80
+doOptimisticAssignment is launched for threads sAppRun[2].aiTIDs[0] (gamess) and sAppRun[5].aiTIDs[0] (sphinx2)
+gamess sAppRun[2].aiTIDs[0] == 6740: migrated 11-th time. New cpu affinity mask 0x80
+sphinx2 sAppRun[5].aiTIDs[0] == 6744: migrated 4-th time. New cpu affinity mask 0x40
+Pid 6725 exited.
+gamess2 sAppRun[6] (#5): end of a run was detected: sAppRun[6].iPID == 6728. Execution time: 420 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#5): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6728
+gamess2 sAppRun[6] (#5): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#6): launched 6-th time (pid = 6748)
+gamess2 sAppRun[6].aiTIDs[0] (#6): thread starts: sAppRun[6].aiTIDs[0] == 6748
+gamess2 sAppRun[6].aiTIDs[0] == 6748: migrated 7-th time. New cpu affinity mask 0x4000
+Pid 5622 exited.
+sphinx sAppRun[1] (#1): end of a run was detected: sAppRun[1].iPID == 5625. Execution time: 2156 sec.
+sphinx sAppRun[1].aiTIDs[0] (#1): thread finishes due to application's termination: sAppRun[1].aiTIDs[0] == 5625
+sphinx sAppRun[1] (#1): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/sphinx/
+gamess2 sAppRun[6].aiTIDs[0] == 6748: migrated 8-th time. New cpu affinity mask 0x8000
+sphinx sAppRun[1] (#2): launched 2-th time (pid = 6752)
+sphinx sAppRun[1].aiTIDs[0] (#2): thread starts: sAppRun[1].aiTIDs[0] == 6752
+sphinx sAppRun[1].aiTIDs[0] == 6752: migrated 4-th time. New cpu affinity mask 0x4000
+doOptimisticAssignment is launched for threads sAppRun[0].aiTIDs[0] (soplex) and sAppRun[6].aiTIDs[0] (gamess2)
+soplex sAppRun[0].aiTIDs[0] == 6732: migrated 6-th time. New cpu affinity mask 0x8000
+gamess2 sAppRun[6].aiTIDs[0] == 6748: migrated 9-th time. New cpu affinity mask 0x400
+Pid 6729 exited.
+soplex sAppRun[0] (#4): end of a run was detected: sAppRun[0].iPID == 6732. Execution time: 589 sec.
+soplex sAppRun[0].aiTIDs[0] (#4): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6732
+soplex sAppRun[0] (#4): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+namd2 sAppRun[7].aiTIDs[0] == 6708: migrated 3-th time. New cpu affinity mask 0x8000
+soplex sAppRun[0] (#5): launched 5-th time (pid = 6756)
+soplex sAppRun[0].aiTIDs[0] (#5): thread starts: sAppRun[0].aiTIDs[0] == 6756
+soplex sAppRun[0].aiTIDs[0] == 6756: migrated 7-th time. New cpu affinity mask 0x4
+doOptimisticAssignment is launched for threads sAppRun[5].aiTIDs[0] (sphinx2) and sAppRun[2].aiTIDs[0] (gamess)
+sphinx2 sAppRun[5].aiTIDs[0] == 6744: migrated 5-th time. New cpu affinity mask 0x80
+gamess sAppRun[2].aiTIDs[0] == 6740: migrated 12-th time. New cpu affinity mask 0x40
+Pid 6733 exited.
+soplex2 sAppRun[4] (#4): end of a run was detected: sAppRun[4].iPID == 6736. Execution time: 579 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#4): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6736
+soplex2 sAppRun[4] (#4): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+soplex2 sAppRun[4] (#5): launched 5-th time (pid = 6760)
+soplex2 sAppRun[4].aiTIDs[0] (#5): thread starts: sAppRun[4].aiTIDs[0] == 6760
+soplex2 sAppRun[4].aiTIDs[0] == 6760: migrated 5-th time. New cpu affinity mask 0x8
+*** WARNING: can't open stat file /proc/6708/task/6708/stat.
+namd2 sAppRun[7] (#2): end of a run was detected: sAppRun[7].iPID == 6708. Execution time: 1210 sec.
+namd2 sAppRun[7].aiTIDs[0] (#2): thread finishes due to application's termination: sAppRun[7].aiTIDs[0] == 6708
+namd2 sAppRun[7] (#2): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd2/
+Pid 6705 exited.
+namd2 sAppRun[7] (#3): launched 3-th time (pid = 6764)
+namd2 sAppRun[7].aiTIDs[0] (#3): thread starts: sAppRun[7].aiTIDs[0] == 6764
+namd2 sAppRun[7].aiTIDs[0] == 6764: migrated 4-th time. New cpu affinity mask 0x8000
+Pid 6709 exited.
+namd sAppRun[3] (#2): end of a run was detected: sAppRun[3].iPID == 6712. Execution time: 1213 sec.
+namd sAppRun[3].aiTIDs[0] (#2): thread finishes due to application's termination: sAppRun[3].aiTIDs[0] == 6712
+namd sAppRun[3] (#2): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd/
+namd sAppRun[3] (#3): launched 3-th time (pid = 6768)
+namd sAppRun[3].aiTIDs[0] (#3): thread starts: sAppRun[3].aiTIDs[0] == 6768
+namd sAppRun[3].aiTIDs[0] == 6768: migrated 7-th time. New cpu affinity mask 0x800
+Pid 6737 exited.
+gamess sAppRun[2] (#6): end of a run was detected: sAppRun[2].iPID == 6740. Execution time: 420 sec.
+gamess sAppRun[2].aiTIDs[0] (#6): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6740
+gamess sAppRun[2] (#6): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#7): launched 7-th time (pid = 6772)
+gamess sAppRun[2].aiTIDs[0] (#7): thread starts: sAppRun[2].aiTIDs[0] == 6772
+gamess sAppRun[2].aiTIDs[0] == 6772: migrated 13-th time. New cpu affinity mask 0x40
+Pid 6745 exited.
+gamess2 sAppRun[6] (#6): end of a run was detected: sAppRun[6].iPID == 6748. Execution time: 418 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#6): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6748
+gamess2 sAppRun[6] (#6): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#7): launched 7-th time (pid = 6776)
+gamess2 sAppRun[6].aiTIDs[0] (#7): thread starts: sAppRun[6].aiTIDs[0] == 6776
+gamess2 sAppRun[6].aiTIDs[0] == 6776: migrated 10-th time. New cpu affinity mask 0x400
+Pid 6757 exited.
+soplex2 sAppRun[4] (#5): end of a run was detected: sAppRun[4].iPID == 6760. Execution time: 525 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#5): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6760
+soplex2 sAppRun[4] (#5): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+soplex2 sAppRun[4] (#6): launched 6-th time (pid = 6780)
+doOptimisticAssignment is launched for threads sAppRun[0].aiTIDs[0] (soplex) and sAppRun[3].aiTIDs[0] (namd)
+soplex sAppRun[0].aiTIDs[0] == 6756: migrated 8-th time. New cpu affinity mask 0x800
+namd sAppRun[3].aiTIDs[0] == 6768: migrated 8-th time. New cpu affinity mask 0x4
+soplex2 sAppRun[4].aiTIDs[0] (#6): thread starts: sAppRun[4].aiTIDs[0] == 6780
+soplex2 sAppRun[4].aiTIDs[0] == 6780: migrated 6-th time. New cpu affinity mask 0x8
+doOptimisticAssignment is launched for threads sAppRun[4].aiTIDs[0] (soplex2) and sAppRun[6].aiTIDs[0] (gamess2)
+soplex2 sAppRun[4].aiTIDs[0] == 6780: migrated 7-th time. New cpu affinity mask 0x400
+gamess2 sAppRun[6].aiTIDs[0] == 6776: migrated 11-th time. New cpu affinity mask 0x8
+soplex sAppRun[0] (#5): end of a run was detected: sAppRun[0].iPID == 6756. Execution time: 610 sec.
+soplex sAppRun[0].aiTIDs[0] (#5): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6756
+soplex sAppRun[0] (#5): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+Pid 6753 exited.
+gamess sAppRun[2].aiTIDs[0] == 6772: migrated 14-th time. New cpu affinity mask 0x800
+soplex sAppRun[0] (#6): launched 6-th time (pid = 6784)
+soplex sAppRun[0].aiTIDs[0] (#6): thread starts: sAppRun[0].aiTIDs[0] == 6784
+soplex sAppRun[0].aiTIDs[0] == 6784: migrated 9-th time. New cpu affinity mask 0x40
+doOptimisticAssignment is launched for threads sAppRun[1].aiTIDs[0] (sphinx) and sAppRun[6].aiTIDs[0] (gamess2)
+sphinx sAppRun[1].aiTIDs[0] == 6752: migrated 5-th time. New cpu affinity mask 0x8
+gamess2 sAppRun[6].aiTIDs[0] == 6776: migrated 12-th time. New cpu affinity mask 0x4000
+Pid 6769 exited.
+gamess sAppRun[2] (#7): end of a run was detected: sAppRun[2].iPID == 6772. Execution time: 423 sec.
+gamess sAppRun[2].aiTIDs[0] (#7): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6772
+gamess sAppRun[2] (#7): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#8): launched 8-th time (pid = 6788)
+gamess sAppRun[2].aiTIDs[0] (#8): thread starts: sAppRun[2].aiTIDs[0] == 6788
+gamess sAppRun[2].aiTIDs[0] == 6788: migrated 15-th time. New cpu affinity mask 0x800
+Pid 6773 exited.
+gamess2 sAppRun[6] (#7): end of a run was detected: sAppRun[6].iPID == 6776. Execution time: 420 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#7): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6776
+gamess2 sAppRun[6] (#7): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#8): launched 8-th time (pid = 6792)
+gamess2 sAppRun[6].aiTIDs[0] (#8): thread starts: sAppRun[6].aiTIDs[0] == 6792
+gamess2 sAppRun[6].aiTIDs[0] == 6792: migrated 13-th time. New cpu affinity mask 0x4000
+Pid 6785 exited.
+gamess sAppRun[2] (#8): end of a run was detected: sAppRun[2].iPID == 6788. Execution time: 419 sec.
+gamess sAppRun[2].aiTIDs[0] (#8): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6788
+gamess sAppRun[2] (#8): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#9): launched 9-th time (pid = 6796)
+gamess sAppRun[2].aiTIDs[0] (#9): thread starts: sAppRun[2].aiTIDs[0] == 6796
+gamess sAppRun[2].aiTIDs[0] == 6796: migrated 16-th time. New cpu affinity mask 0x800
+Pid 6789 exited.
+gamess2 sAppRun[6] (#8): end of a run was detected: sAppRun[6].iPID == 6792. Execution time: 421 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#8): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6792
+gamess2 sAppRun[6] (#8): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#9): launched 9-th time (pid = 6800)
+gamess2 sAppRun[6].aiTIDs[0] (#9): thread starts: sAppRun[6].aiTIDs[0] == 6800
+gamess2 sAppRun[6].aiTIDs[0] == 6800: migrated 14-th time. New cpu affinity mask 0x4000
+Pid 6777 exited.
+soplex2 sAppRun[4] (#6): end of a run was detected: sAppRun[4].iPID == 6780. Execution time: 699 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#6): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6780
+soplex2 sAppRun[4] (#6): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+soplex2 sAppRun[4] (#7): launched 7-th time (pid = 6804)
+soplex2 sAppRun[4].aiTIDs[0] (#7): thread starts: sAppRun[4].aiTIDs[0] == 6804
+soplex2 sAppRun[4].aiTIDs[0] == 6804: migrated 8-th time. New cpu affinity mask 0x400
+Pid 6761 exited.
+namd2 sAppRun[7] (#3): end of a run was detected: sAppRun[7].iPID == 6764. Execution time: 1207 sec.
+namd2 sAppRun[7].aiTIDs[0] (#3): thread finishes due to application's termination: sAppRun[7].aiTIDs[0] == 6764
+namd2 sAppRun[7] (#3): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd2/
+namd2 sAppRun[7] (#4): launched 4-th time (pid = 6808)
+namd2 sAppRun[7].aiTIDs[0] (#4): thread starts: sAppRun[7].aiTIDs[0] == 6808
+namd2 sAppRun[7].aiTIDs[0] == 6808: migrated 5-th time. New cpu affinity mask 0x8000
+soplex sAppRun[0] (#6): end of a run was detected: sAppRun[0].iPID == 6784. Execution time: 712 sec.
+soplex sAppRun[0].aiTIDs[0] (#6): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6784
+soplex sAppRun[0] (#6): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+Pid 6781 exited.
+gamess sAppRun[2].aiTIDs[0] == 6796: migrated 17-th time. New cpu affinity mask 0x40
+soplex sAppRun[0] (#7): launched 7-th time (pid = 6812)
+soplex sAppRun[0].aiTIDs[0] (#7): thread starts: sAppRun[0].aiTIDs[0] == 6812
+soplex sAppRun[0].aiTIDs[0] == 6812: migrated 10-th time. New cpu affinity mask 0x800
+doOptimisticAssignment is launched for threads sAppRun[0].aiTIDs[0] (soplex) and sAppRun[2].aiTIDs[0] (gamess)
+soplex sAppRun[0].aiTIDs[0] == 6812: migrated 11-th time. New cpu affinity mask 0x40
+gamess sAppRun[2].aiTIDs[0] == 6796: migrated 18-th time. New cpu affinity mask 0x800
+Pid 6765 exited.
+namd sAppRun[3] (#3): end of a run was detected: sAppRun[3].iPID == 6768. Execution time: 1211 sec.
+namd sAppRun[3].aiTIDs[0] (#3): thread finishes due to application's termination: sAppRun[3].aiTIDs[0] == 6768
+namd sAppRun[3] (#3): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd/
+namd sAppRun[3] (#4): launched 4-th time (pid = 6816)
+namd sAppRun[3].aiTIDs[0] (#4): thread starts: sAppRun[3].aiTIDs[0] == 6816
+namd sAppRun[3].aiTIDs[0] == 6816: migrated 9-th time. New cpu affinity mask 0x4
+Pid 6793 exited.
+gamess sAppRun[2] (#9): end of a run was detected: sAppRun[2].iPID == 6796. Execution time: 419 sec.
+gamess sAppRun[2].aiTIDs[0] (#9): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6796
+gamess sAppRun[2] (#9): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#10): launched 10-th time (pid = 6820)
+gamess sAppRun[2].aiTIDs[0] (#10): thread starts: sAppRun[2].aiTIDs[0] == 6820
+gamess sAppRun[2].aiTIDs[0] == 6820: migrated 19-th time. New cpu affinity mask 0x800
+gamess2 sAppRun[6] (#9): end of a run was detected: sAppRun[6].iPID == 6800. Execution time: 420 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#9): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6800
+gamess2 sAppRun[6] (#9): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+Pid 6797 exited.
+gamess2 sAppRun[6] (#10): launched 10-th time (pid = 6824)
+gamess2 sAppRun[6].aiTIDs[0] (#10): thread starts: sAppRun[6].aiTIDs[0] == 6824
+gamess2 sAppRun[6].aiTIDs[0] == 6824: migrated 15-th time. New cpu affinity mask 0x4000
+Pid 6817 exited.
+gamess sAppRun[2] (#10): end of a run was detected: sAppRun[2].iPID == 6820. Execution time: 419 sec.
+gamess sAppRun[2].aiTIDs[0] (#10): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6820
+gamess sAppRun[2] (#10): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#11): launched 11-th time (pid = 6828)
+gamess sAppRun[2].aiTIDs[0] (#11): thread starts: sAppRun[2].aiTIDs[0] == 6828
+gamess sAppRun[2].aiTIDs[0] == 6828: migrated 20-th time. New cpu affinity mask 0x800
+Pid 6821 exited.
+gamess2 sAppRun[6] (#10): end of a run was detected: sAppRun[6].iPID == 6824. Execution time: 420 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#10): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6824
+gamess2 sAppRun[6] (#10): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#11): launched 11-th time (pid = 6832)
+gamess2 sAppRun[6].aiTIDs[0] (#11): thread starts: sAppRun[6].aiTIDs[0] == 6832
+gamess2 sAppRun[6].aiTIDs[0] == 6832: migrated 16-th time. New cpu affinity mask 0x4000
+soplex2 sAppRun[4] (#7): end of a run was detected: sAppRun[4].iPID == 6804. Execution time: 708 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#7): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6804
+soplex2 sAppRun[4] (#7): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+Pid 6801 exited.
+namd2 sAppRun[7].aiTIDs[0] == 6808: migrated 6-th time. New cpu affinity mask 0x400
+soplex2 sAppRun[4] (#8): launched 8-th time (pid = 6836)
+soplex2 sAppRun[4].aiTIDs[0] (#8): thread starts: sAppRun[4].aiTIDs[0] == 6836
+soplex2 sAppRun[4].aiTIDs[0] == 6836: migrated 9-th time. New cpu affinity mask 0x8000
+doOptimisticAssignment is launched for threads sAppRun[5].aiTIDs[0] (sphinx2) and sAppRun[7].aiTIDs[0] (namd2)
+sphinx2 sAppRun[5].aiTIDs[0] == 6744: migrated 6-th time. New cpu affinity mask 0x400
+namd2 sAppRun[7].aiTIDs[0] == 6808: migrated 7-th time. New cpu affinity mask 0x80
+soplex sAppRun[0] (#7): end of a run was detected: sAppRun[0].iPID == 6812. Execution time: 708 sec.
+soplex sAppRun[0].aiTIDs[0] (#7): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6812
+soplex sAppRun[0] (#7): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+Pid 6809 exited.
+soplex sAppRun[0] (#8): launched 8-th time (pid = 6840)
+soplex sAppRun[0].aiTIDs[0] (#8): thread starts: sAppRun[0].aiTIDs[0] == 6840
+soplex sAppRun[0].aiTIDs[0] == 6840: migrated 12-th time. New cpu affinity mask 0x40
+gamess sAppRun[2] (#11): end of a run was detected: sAppRun[2].iPID == 6828. Execution time: 420 sec.
+gamess sAppRun[2].aiTIDs[0] (#11): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6828
+gamess sAppRun[2] (#11): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+Pid 6825 exited.
+gamess sAppRun[2] (#12): launched 12-th time (pid = 6844)
+gamess sAppRun[2].aiTIDs[0] (#12): thread starts: sAppRun[2].aiTIDs[0] == 6844
+gamess sAppRun[2].aiTIDs[0] == 6844: migrated 21-th time. New cpu affinity mask 0x800
+Pid 6829 exited.
+gamess2 sAppRun[6] (#11): end of a run was detected: sAppRun[6].iPID == 6832. Execution time: 420 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#11): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6832
+gamess2 sAppRun[6] (#11): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#12): launched 12-th time (pid = 6848)
+gamess2 sAppRun[6].aiTIDs[0] (#12): thread starts: sAppRun[6].aiTIDs[0] == 6848
+gamess2 sAppRun[6].aiTIDs[0] == 6848: migrated 17-th time. New cpu affinity mask 0x4000
+*** WARNING: wait for zombie 6836 has started.
+*** WARNING: wait for zombie 6836 has finished.
+soplex2 sAppRun[4] (#8): end of a run was detected: sAppRun[4].iPID == 6836. Execution time: 532 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#8): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6836
+soplex2 sAppRun[4] (#8): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+Pid 6833 exited.
+soplex2 sAppRun[4] (#9): launched 9-th time (pid = 6852)
+namd sAppRun[3].aiTIDs[0] == 6816: migrated 10-th time. New cpu affinity mask 0x8000
+soplex2 sAppRun[4].aiTIDs[0] (#9): thread starts: sAppRun[4].aiTIDs[0] == 6852
+soplex2 sAppRun[4].aiTIDs[0] == 6852: migrated 10-th time. New cpu affinity mask 0x4
+doOptimisticAssignment is launched for threads sAppRun[4].aiTIDs[0] (soplex2) and sAppRun[7].aiTIDs[0] (namd2)
+soplex2 sAppRun[4].aiTIDs[0] == 6852: migrated 11-th time. New cpu affinity mask 0x80
+namd2 sAppRun[7].aiTIDs[0] == 6808: migrated 8-th time. New cpu affinity mask 0x4
+Pid 6805 exited.
+namd2 sAppRun[7] (#4): end of a run was detected: sAppRun[7].iPID == 6808. Execution time: 1208 sec.
+namd2 sAppRun[7].aiTIDs[0] (#4): thread finishes due to application's termination: sAppRun[7].aiTIDs[0] == 6808
+namd2 sAppRun[7] (#4): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd2/
+namd2 sAppRun[7] (#5): launched 5-th time (pid = 6856)
+namd2 sAppRun[7].aiTIDs[0] (#5): thread starts: sAppRun[7].aiTIDs[0] == 6856
+namd2 sAppRun[7].aiTIDs[0] == 6856: migrated 9-th time. New cpu affinity mask 0x4
+Pid 6749 exited.
+sphinx sAppRun[1] (#2): end of a run was detected: sAppRun[1].iPID == 6752. Execution time: 2676 sec.
+sphinx sAppRun[1].aiTIDs[0] (#2): thread finishes due to application's termination: sAppRun[1].aiTIDs[0] == 6752
+sphinx sAppRun[1] (#2): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/sphinx/
+namd2 sAppRun[7].aiTIDs[0] == 6856: migrated 10-th time. New cpu affinity mask 0x8
+sphinx sAppRun[1] (#3): launched 3-th time (pid = 6860)
+sphinx sAppRun[1].aiTIDs[0] (#3): thread starts: sAppRun[1].aiTIDs[0] == 6860
+sphinx sAppRun[1].aiTIDs[0] == 6860: migrated 6-th time. New cpu affinity mask 0x4
+doOptimisticAssignment is launched for threads sAppRun[3].aiTIDs[0] (namd) and sAppRun[5].aiTIDs[0] (sphinx2)
+namd sAppRun[3].aiTIDs[0] == 6816: migrated 11-th time. New cpu affinity mask 0x400
+sphinx2 sAppRun[5].aiTIDs[0] == 6744: migrated 7-th time. New cpu affinity mask 0x8000
+Pid 6741 exited.
+sphinx2 sAppRun[5] (#2): end of a run was detected: sAppRun[5].iPID == 6744. Execution time: 2714 sec.
+sphinx2 sAppRun[5].aiTIDs[0] (#2): thread finishes due to application's termination: sAppRun[5].aiTIDs[0] == 6744
+sphinx2 sAppRun[5] (#2): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/sphinx2/
+gamess2 sAppRun[6].aiTIDs[0] == 6848: migrated 18-th time. New cpu affinity mask 0x8000
+sphinx2 sAppRun[5] (#3): launched 3-th time (pid = 6864)
+sphinx2 sAppRun[5].aiTIDs[0] (#3): thread starts: sAppRun[5].aiTIDs[0] == 6864
+sphinx2 sAppRun[5].aiTIDs[0] == 6864: migrated 8-th time. New cpu affinity mask 0x4000
+doOptimisticAssignment is launched for threads sAppRun[5].aiTIDs[0] (sphinx2) and sAppRun[6].aiTIDs[0] (gamess2)
+sphinx2 sAppRun[5].aiTIDs[0] == 6864: migrated 9-th time. New cpu affinity mask 0x8000
+gamess2 sAppRun[6].aiTIDs[0] == 6848: migrated 19-th time. New cpu affinity mask 0x4000
+namd sAppRun[3] (#4): end of a run was detected: sAppRun[3].iPID == 6816. Execution time: 1212 sec.
+namd sAppRun[3].aiTIDs[0] (#4): thread finishes due to application's termination: sAppRun[3].aiTIDs[0] == 6816
+namd sAppRun[3] (#4): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd/
+Pid 6813 exited.
+namd sAppRun[3] (#5): launched 5-th time (pid = 6869)
+namd sAppRun[3].aiTIDs[0] (#5): thread starts: sAppRun[3].aiTIDs[0] == 6869
+namd sAppRun[3].aiTIDs[0] == 6869: migrated 12-th time. New cpu affinity mask 0x400
+soplex sAppRun[0] (#8): end of a run was detected: sAppRun[0].iPID == 6840. Execution time: 605 sec.
+soplex sAppRun[0].aiTIDs[0] (#8): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6840
+soplex sAppRun[0] (#8): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+Pid 6837 exited.
+namd2 sAppRun[7].aiTIDs[0] == 6856: migrated 11-th time. New cpu affinity mask 0x40
+soplex sAppRun[0] (#9): launched 9-th time (pid = 6873)
+soplex sAppRun[0].aiTIDs[0] (#9): thread starts: sAppRun[0].aiTIDs[0] == 6873
+soplex sAppRun[0].aiTIDs[0] == 6873: migrated 13-th time. New cpu affinity mask 0x8
+doOptimisticAssignment is launched for threads sAppRun[3].aiTIDs[0] (namd) and sAppRun[0].aiTIDs[0] (soplex)
+namd sAppRun[3].aiTIDs[0] == 6869: migrated 13-th time. New cpu affinity mask 0x8
+soplex sAppRun[0].aiTIDs[0] == 6873: migrated 14-th time. New cpu affinity mask 0x400
+Pid 6841 exited.
+gamess sAppRun[2] (#12): end of a run was detected: sAppRun[2].iPID == 6844. Execution time: 418 sec.
+gamess sAppRun[2].aiTIDs[0] (#12): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6844
+gamess sAppRun[2] (#12): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#13): launched 13-th time (pid = 6877)
+gamess sAppRun[2].aiTIDs[0] (#13): thread starts: sAppRun[2].aiTIDs[0] == 6877
+gamess sAppRun[2].aiTIDs[0] == 6877: migrated 22-th time. New cpu affinity mask 0x800
+Pid 6845 exited.
+gamess2 sAppRun[6] (#12): end of a run was detected: sAppRun[6].iPID == 6848. Execution time: 420 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#12): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6848
+gamess2 sAppRun[6] (#12): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#13): launched 13-th time (pid = 6881)
+gamess2 sAppRun[6].aiTIDs[0] (#13): thread starts: sAppRun[6].aiTIDs[0] == 6881
+gamess2 sAppRun[6].aiTIDs[0] == 6881: migrated 20-th time. New cpu affinity mask 0x4000
+Pid 6849 exited.
+soplex2 sAppRun[4] (#9): end of a run was detected: sAppRun[4].iPID == 6852. Execution time: 544 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#9): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6852
+soplex2 sAppRun[4] (#9): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+namd2 sAppRun[7].aiTIDs[0] == 6856: migrated 12-th time. New cpu affinity mask 0x80
+soplex2 sAppRun[4] (#10): launched 10-th time (pid = 6885)
+soplex2 sAppRun[4].aiTIDs[0] (#10): thread starts: sAppRun[4].aiTIDs[0] == 6885
+soplex2 sAppRun[4].aiTIDs[0] == 6885: migrated 12-th time. New cpu affinity mask 0x40
+doOptimisticAssignment is launched for threads sAppRun[7].aiTIDs[0] (namd2) and sAppRun[1].aiTIDs[0] (sphinx)
+namd2 sAppRun[7].aiTIDs[0] == 6856: migrated 13-th time. New cpu affinity mask 0x4
+sphinx sAppRun[1].aiTIDs[0] == 6860: migrated 7-th time. New cpu affinity mask 0x80
+Pid 6874 exited.
+gamess sAppRun[2] (#13): end of a run was detected: sAppRun[2].iPID == 6877. Execution time: 420 sec.
+gamess sAppRun[2].aiTIDs[0] (#13): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6877
+gamess sAppRun[2] (#13): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#14): launched 14-th time (pid = 6889)
+gamess sAppRun[2].aiTIDs[0] (#14): thread starts: sAppRun[2].aiTIDs[0] == 6889
+gamess sAppRun[2].aiTIDs[0] == 6889: migrated 23-th time. New cpu affinity mask 0x800
+gamess2 sAppRun[6] (#13): end of a run was detected: sAppRun[6].iPID == 6881. Execution time: 420 sec.
+Pid 6878 exited.
+gamess2 sAppRun[6].aiTIDs[0] (#13): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6881
+gamess2 sAppRun[6] (#13): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#14): launched 14-th time (pid = 6893)
+gamess2 sAppRun[6].aiTIDs[0] (#14): thread starts: sAppRun[6].aiTIDs[0] == 6893
+gamess2 sAppRun[6].aiTIDs[0] == 6893: migrated 21-th time. New cpu affinity mask 0x4000
+Pid 6870 exited.
+soplex sAppRun[0] (#9): end of a run was detected: sAppRun[0].iPID == 6873. Execution time: 570 sec.
+soplex sAppRun[0].aiTIDs[0] (#9): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6873
+soplex sAppRun[0] (#9): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+gamess sAppRun[2].aiTIDs[0] == 6889: migrated 24-th time. New cpu affinity mask 0x400
+soplex sAppRun[0] (#10): launched 10-th time (pid = 6897)
+soplex sAppRun[0].aiTIDs[0] (#10): thread starts: sAppRun[0].aiTIDs[0] == 6897
+soplex sAppRun[0].aiTIDs[0] == 6897: migrated 15-th time. New cpu affinity mask 0x800
+doOptimisticAssignment is launched for threads sAppRun[1].aiTIDs[0] (sphinx) and sAppRun[2].aiTIDs[0] (gamess)
+sphinx sAppRun[1].aiTIDs[0] == 6860: migrated 8-th time. New cpu affinity mask 0x400
+gamess sAppRun[2].aiTIDs[0] == 6889: migrated 25-th time. New cpu affinity mask 0x80
+Pid 6886 exited.
+gamess sAppRun[2] (#14): end of a run was detected: sAppRun[2].iPID == 6889. Execution time: 419 sec.
+gamess sAppRun[2].aiTIDs[0] (#14): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6889
+gamess sAppRun[2] (#14): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#15): launched 15-th time (pid = 6901)
+gamess sAppRun[2].aiTIDs[0] (#15): thread starts: sAppRun[2].aiTIDs[0] == 6901
+gamess sAppRun[2].aiTIDs[0] == 6901: migrated 26-th time. New cpu affinity mask 0x80
+soplex2 sAppRun[4] (#10): end of a run was detected: sAppRun[4].iPID == 6885. Execution time: 576 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#10): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6885
+soplex2 sAppRun[4] (#10): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+Pid 6882 exited.
+soplex2 sAppRun[4] (#11): launched 11-th time (pid = 6905)
+soplex2 sAppRun[4].aiTIDs[0] (#11): thread starts: sAppRun[4].aiTIDs[0] == 6905
+soplex2 sAppRun[4].aiTIDs[0] == 6905: migrated 13-th time. New cpu affinity mask 0x40
+Pid 6890 exited.
+gamess2 sAppRun[6] (#14): end of a run was detected: sAppRun[6].iPID == 6893. Execution time: 420 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#14): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6893
+gamess2 sAppRun[6] (#14): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#15): launched 15-th time (pid = 6909)
+gamess2 sAppRun[6].aiTIDs[0] (#15): thread starts: sAppRun[6].aiTIDs[0] == 6909
+gamess2 sAppRun[6].aiTIDs[0] == 6909: migrated 22-th time. New cpu affinity mask 0x4000
+Pid 6853 exited.
+namd2 sAppRun[7] (#5): end of a run was detected: sAppRun[7].iPID == 6856. Execution time: 1213 sec.
+namd2 sAppRun[7].aiTIDs[0] (#5): thread finishes due to application's termination: sAppRun[7].aiTIDs[0] == 6856
+namd2 sAppRun[7] (#5): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd2/
+namd2 sAppRun[7] (#6): launched 6-th time (pid = 6913)
+namd2 sAppRun[7].aiTIDs[0] (#6): thread starts: sAppRun[7].aiTIDs[0] == 6913
+namd2 sAppRun[7].aiTIDs[0] == 6913: migrated 14-th time. New cpu affinity mask 0x4
+Pid 6894 exited.
+soplex sAppRun[0] (#10): end of a run was detected: sAppRun[0].iPID == 6897. Execution time: 546 sec.
+soplex sAppRun[0].aiTIDs[0] (#10): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6897
+soplex sAppRun[0] (#10): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+soplex sAppRun[0] (#11): launched 11-th time (pid = 6917)
+soplex sAppRun[0].aiTIDs[0] (#11): thread starts: sAppRun[0].aiTIDs[0] == 6917
+soplex sAppRun[0].aiTIDs[0] == 6917: migrated 16-th time. New cpu affinity mask 0x800
+Pid 6866 exited.
+namd sAppRun[3] (#5): end of a run was detected: sAppRun[3].iPID == 6869. Execution time: 1214 sec.
+namd sAppRun[3].aiTIDs[0] (#5): thread finishes due to application's termination: sAppRun[3].aiTIDs[0] == 6869
+namd sAppRun[3] (#5): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd/
+namd sAppRun[3] (#6): launched 6-th time (pid = 6921)
+namd sAppRun[3].aiTIDs[0] (#6): thread starts: sAppRun[3].aiTIDs[0] == 6921
+namd sAppRun[3].aiTIDs[0] == 6921: migrated 14-th time. New cpu affinity mask 0x8
+Pid 6898 exited.
+gamess sAppRun[2] (#15): end of a run was detected: sAppRun[2].iPID == 6901. Execution time: 418 sec.
+gamess sAppRun[2].aiTIDs[0] (#15): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6901
+gamess sAppRun[2] (#15): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#16): launched 16-th time (pid = 6925)
+gamess sAppRun[2].aiTIDs[0] (#16): thread starts: sAppRun[2].aiTIDs[0] == 6925
+gamess sAppRun[2].aiTIDs[0] == 6925: migrated 27-th time. New cpu affinity mask 0x80
+Pid 6906 exited.
+gamess2 sAppRun[6] (#15): end of a run was detected: sAppRun[6].iPID == 6909. Execution time: 419 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#15): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6909
+gamess2 sAppRun[6] (#15): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#16): launched 16-th time (pid = 6929)
+gamess2 sAppRun[6].aiTIDs[0] (#16): thread starts: sAppRun[6].aiTIDs[0] == 6929
+gamess2 sAppRun[6].aiTIDs[0] == 6929: migrated 23-th time. New cpu affinity mask 0x4000
+Pid 6902 exited.
+soplex2 sAppRun[4] (#11): end of a run was detected: sAppRun[4].iPID == 6905. Execution time: 557 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#11): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6905
+soplex2 sAppRun[4] (#11): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+soplex2 sAppRun[4] (#12): launched 12-th time (pid = 6933)
+soplex2 sAppRun[4].aiTIDs[0] (#12): thread starts: sAppRun[4].aiTIDs[0] == 6933
+soplex2 sAppRun[4].aiTIDs[0] == 6933: migrated 14-th time. New cpu affinity mask 0x40
+Pid 6914 exited.
+soplex sAppRun[0] (#11): end of a run was detected: sAppRun[0].iPID == 6917. Execution time: 547 sec.
+soplex sAppRun[0].aiTIDs[0] (#11): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6917
+soplex sAppRun[0] (#11): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+doOptimisticAssignment is launched for threads sAppRun[1].aiTIDs[0] (sphinx) and sAppRun[2].aiTIDs[0] (gamess)
+sphinx sAppRun[1].aiTIDs[0] == 6860: migrated 9-th time. New cpu affinity mask 0x80
+gamess sAppRun[2].aiTIDs[0] == 6925: migrated 28-th time. New cpu affinity mask 0x400
+soplex sAppRun[0] (#12): launched 12-th time (pid = 6937)
+soplex sAppRun[0].aiTIDs[0] (#12): thread starts: sAppRun[0].aiTIDs[0] == 6937
+soplex sAppRun[0].aiTIDs[0] == 6937: migrated 17-th time. New cpu affinity mask 0x800
+doOptimisticAssignment is launched for threads sAppRun[7].aiTIDs[0] (namd2) and sAppRun[1].aiTIDs[0] (sphinx)
+namd2 sAppRun[7].aiTIDs[0] == 6913: migrated 15-th time. New cpu affinity mask 0x80
+sphinx sAppRun[1].aiTIDs[0] == 6860: migrated 10-th time. New cpu affinity mask 0x4
+gamess sAppRun[2] (#16): end of a run was detected: sAppRun[2].iPID == 6925. Execution time: 420 sec.
+gamess sAppRun[2].aiTIDs[0] (#16): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6925
+gamess sAppRun[2] (#16): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+Pid 6922 exited.
+gamess sAppRun[2] (#17): launched 17-th time (pid = 6941)
+gamess sAppRun[2].aiTIDs[0] (#17): thread starts: sAppRun[2].aiTIDs[0] == 6941
+gamess sAppRun[2].aiTIDs[0] == 6941: migrated 29-th time. New cpu affinity mask 0x400
+Pid 6926 exited.
+gamess2 sAppRun[6] (#16): end of a run was detected: sAppRun[6].iPID == 6929. Execution time: 420 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#16): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6929
+gamess2 sAppRun[6] (#16): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#17): launched 17-th time (pid = 6945)
+gamess2 sAppRun[6].aiTIDs[0] (#17): thread starts: sAppRun[6].aiTIDs[0] == 6945
+gamess2 sAppRun[6].aiTIDs[0] == 6945: migrated 24-th time. New cpu affinity mask 0x4000
+Pid 6861 exited.
+sphinx2 sAppRun[5] (#3): end of a run was detected: sAppRun[5].iPID == 6864. Execution time: 2031 sec.
+sphinx2 sAppRun[5].aiTIDs[0] (#3): thread finishes due to application's termination: sAppRun[5].aiTIDs[0] == 6864
+sphinx2 sAppRun[5] (#3): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/sphinx2/
+sphinx2 sAppRun[5] (#4): launched 4-th time (pid = 6949)
+gamess2 sAppRun[6].aiTIDs[0] == 6945: migrated 25-th time. New cpu affinity mask 0x8000
+sphinx2 sAppRun[5].aiTIDs[0] (#4): thread starts: sAppRun[5].aiTIDs[0] == 6949
+sphinx2 sAppRun[5].aiTIDs[0] == 6949: migrated 10-th time. New cpu affinity mask 0x4000
+doOptimisticAssignment is launched for threads sAppRun[5].aiTIDs[0] (sphinx2) and sAppRun[3].aiTIDs[0] (namd)
+sphinx2 sAppRun[5].aiTIDs[0] == 6949: migrated 11-th time. New cpu affinity mask 0x8
+namd sAppRun[3].aiTIDs[0] == 6921: migrated 15-th time. New cpu affinity mask 0x4000
+Pid 6857 exited.
+sphinx sAppRun[1] (#3): end of a run was detected: sAppRun[1].iPID == 6860. Execution time: 2096 sec.
+sphinx sAppRun[1].aiTIDs[0] (#3): thread finishes due to application's termination: sAppRun[1].aiTIDs[0] == 6860
+sphinx sAppRun[1] (#3): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/sphinx/
+namd2 sAppRun[7].aiTIDs[0] == 6913: migrated 16-th time. New cpu affinity mask 0x4
+sphinx sAppRun[1] (#4): launched 4-th time (pid = 6953)
+sphinx sAppRun[1].aiTIDs[0] (#4): thread starts: sAppRun[1].aiTIDs[0] == 6953
+sphinx sAppRun[1].aiTIDs[0] == 6953: migrated 11-th time. New cpu affinity mask 0x80
+doOptimisticAssignment is launched for threads sAppRun[0].aiTIDs[0] (soplex) and sAppRun[7].aiTIDs[0] (namd2)
+soplex sAppRun[0].aiTIDs[0] == 6937: migrated 18-th time. New cpu affinity mask 0x4
+namd2 sAppRun[7].aiTIDs[0] == 6913: migrated 17-th time. New cpu affinity mask 0x800
+soplex2 sAppRun[4] (#12): end of a run was detected: sAppRun[4].iPID == 6933. Execution time: 554 sec.
+Pid 6930 exited.
+soplex2 sAppRun[4].aiTIDs[0] (#12): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6933
+soplex2 sAppRun[4] (#12): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+soplex2 sAppRun[4] (#13): launched 13-th time (pid = 6957)
+gamess2 sAppRun[6].aiTIDs[0] == 6945: migrated 26-th time. New cpu affinity mask 0x40
+soplex2 sAppRun[4].aiTIDs[0] (#13): thread starts: sAppRun[4].aiTIDs[0] == 6957
+soplex2 sAppRun[4].aiTIDs[0] == 6957: migrated 15-th time. New cpu affinity mask 0x8000
+doOptimisticAssignment is launched for threads sAppRun[3].aiTIDs[0] (namd) and sAppRun[1].aiTIDs[0] (sphinx)
+namd sAppRun[3].aiTIDs[0] == 6921: migrated 16-th time. New cpu affinity mask 0x80
+sphinx sAppRun[1].aiTIDs[0] == 6953: migrated 12-th time. New cpu affinity mask 0x4000
+Pid 6938 exited.
+gamess sAppRun[2] (#17): end of a run was detected: sAppRun[2].iPID == 6941. Execution time: 420 sec.
+gamess sAppRun[2].aiTIDs[0] (#17): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6941
+gamess sAppRun[2] (#17): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#18): launched 18-th time (pid = 6961)
+gamess sAppRun[2].aiTIDs[0] (#18): thread starts: sAppRun[2].aiTIDs[0] == 6961
+gamess sAppRun[2].aiTIDs[0] == 6961: migrated 30-th time. New cpu affinity mask 0x400
+gamess2 sAppRun[6] (#17): end of a run was detected: sAppRun[6].iPID == 6945. Execution time: 419 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#17): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6945
+gamess2 sAppRun[6] (#17): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+Pid 6942 exited.
+gamess2 sAppRun[6] (#18): launched 18-th time (pid = 6966)
+gamess2 sAppRun[6].aiTIDs[0] (#18): thread starts: sAppRun[6].aiTIDs[0] == 6966
+gamess2 sAppRun[6].aiTIDs[0] == 6966: migrated 27-th time. New cpu affinity mask 0x40
+Pid 6910 exited.
+namd2 sAppRun[7] (#6): end of a run was detected: sAppRun[7].iPID == 6913. Execution time: 1211 sec.
+namd2 sAppRun[7].aiTIDs[0] (#6): thread finishes due to application's termination: sAppRun[7].aiTIDs[0] == 6913
+namd2 sAppRun[7] (#6): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd2/
+namd2 sAppRun[7] (#7): launched 7-th time (pid = 6970)
+namd2 sAppRun[7].aiTIDs[0] (#7): thread starts: sAppRun[7].aiTIDs[0] == 6970
+namd2 sAppRun[7].aiTIDs[0] == 6970: migrated 18-th time. New cpu affinity mask 0x800
+soplex sAppRun[0] (#12): end of a run was detected: sAppRun[0].iPID == 6937. Execution time: 676 sec.
+soplex sAppRun[0].aiTIDs[0] (#12): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6937
+soplex sAppRun[0] (#12): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+Pid 6934 exited.
+soplex sAppRun[0] (#13): launched 13-th time (pid = 6974)
+soplex sAppRun[0].aiTIDs[0] (#13): thread starts: sAppRun[0].aiTIDs[0] == 6974
+soplex sAppRun[0].aiTIDs[0] == 6974: migrated 19-th time. New cpu affinity mask 0x4
+namd sAppRun[3] (#6): end of a run was detected: sAppRun[3].iPID == 6921. Execution time: 1211 sec.
+namd sAppRun[3].aiTIDs[0] (#6): thread finishes due to application's termination: sAppRun[3].aiTIDs[0] == 6921
+namd sAppRun[3] (#6): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd/
+Pid 6918 exited.
+namd sAppRun[3] (#7): launched 7-th time (pid = 6978)
+namd sAppRun[3].aiTIDs[0] (#7): thread starts: sAppRun[3].aiTIDs[0] == 6978
+namd sAppRun[3].aiTIDs[0] == 6978: migrated 17-th time. New cpu affinity mask 0x80
+Pid 6958 exited.
+gamess sAppRun[2] (#18): end of a run was detected: sAppRun[2].iPID == 6961. Execution time: 419 sec.
+gamess sAppRun[2].aiTIDs[0] (#18): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6961
+gamess sAppRun[2] (#18): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#19): launched 19-th time (pid = 6982)
+gamess sAppRun[2].aiTIDs[0] (#19): thread starts: sAppRun[2].aiTIDs[0] == 6982
+gamess sAppRun[2].aiTIDs[0] == 6982: migrated 31-th time. New cpu affinity mask 0x400
+Pid 6963 exited.
+gamess2 sAppRun[6] (#18): end of a run was detected: sAppRun[6].iPID == 6966. Execution time: 423 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#18): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6966
+gamess2 sAppRun[6] (#18): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#19): launched 19-th time (pid = 6986)
+gamess2 sAppRun[6].aiTIDs[0] (#19): thread starts: sAppRun[6].aiTIDs[0] == 6986
+gamess2 sAppRun[6].aiTIDs[0] == 6986: migrated 28-th time. New cpu affinity mask 0x40
+Pid 6954 exited.
+soplex2 sAppRun[4] (#13): end of a run was detected: sAppRun[4].iPID == 6957. Execution time: 624 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#13): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6957
+soplex2 sAppRun[4] (#13): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+soplex2 sAppRun[4] (#14): launched 14-th time (pid = 6990)
+soplex2 sAppRun[4].aiTIDs[0] (#14): thread starts: sAppRun[4].aiTIDs[0] == 6990
+soplex2 sAppRun[4].aiTIDs[0] == 6990: migrated 16-th time. New cpu affinity mask 0x8000
+Pid 6971 exited.
+soplex sAppRun[0] (#13): end of a run was detected: sAppRun[0].iPID == 6974. Execution time: 526 sec.
+soplex sAppRun[0].aiTIDs[0] (#13): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6974
+soplex sAppRun[0] (#13): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+soplex sAppRun[0] (#14): launched 14-th time (pid = 6994)
+soplex sAppRun[0].aiTIDs[0] (#14): thread starts: sAppRun[0].aiTIDs[0] == 6994
+soplex sAppRun[0].aiTIDs[0] == 6994: migrated 20-th time. New cpu affinity mask 0x4
+Pid 6979 exited.
+gamess sAppRun[2] (#19): end of a run was detected: sAppRun[2].iPID == 6982. Execution time: 419 sec.
+gamess sAppRun[2].aiTIDs[0] (#19): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6982
+gamess sAppRun[2] (#19): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#20): launched 20-th time (pid = 6998)
+gamess sAppRun[2].aiTIDs[0] (#20): thread starts: sAppRun[2].aiTIDs[0] == 6998
+gamess sAppRun[2].aiTIDs[0] == 6998: migrated 32-th time. New cpu affinity mask 0x400
+Pid 6983 exited.
+gamess2 sAppRun[6] (#19): end of a run was detected: sAppRun[6].iPID == 6986. Execution time: 422 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#19): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 6986
+gamess2 sAppRun[6] (#19): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#20): launched 20-th time (pid = 7002)
+gamess2 sAppRun[6].aiTIDs[0] (#20): thread starts: sAppRun[6].aiTIDs[0] == 7002
+gamess2 sAppRun[6].aiTIDs[0] == 7002: migrated 29-th time. New cpu affinity mask 0x40
+Pid 6987 exited.
+soplex2 sAppRun[4] (#14): end of a run was detected: sAppRun[4].iPID == 6990. Execution time: 598 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#14): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 6990
+soplex2 sAppRun[4] (#14): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+soplex2 sAppRun[4] (#15): launched 15-th time (pid = 7006)
+soplex2 sAppRun[4].aiTIDs[0] (#15): thread starts: sAppRun[4].aiTIDs[0] == 7006
+soplex2 sAppRun[4].aiTIDs[0] == 7006: migrated 17-th time. New cpu affinity mask 0x8000
+soplex sAppRun[0] (#14): end of a run was detected: sAppRun[0].iPID == 6994. Execution time: 528 sec.
+soplex sAppRun[0].aiTIDs[0] (#14): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 6994
+soplex sAppRun[0] (#14): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+Pid 6991 exited.
+soplex sAppRun[0] (#15): launched 15-th time (pid = 7010)
+soplex sAppRun[0].aiTIDs[0] (#15): thread starts: sAppRun[0].aiTIDs[0] == 7010
+soplex sAppRun[0].aiTIDs[0] == 7010: migrated 21-th time. New cpu affinity mask 0x4
+Pid 6995 exited.
+gamess sAppRun[2] (#20): end of a run was detected: sAppRun[2].iPID == 6998. Execution time: 418 sec.
+gamess sAppRun[2].aiTIDs[0] (#20): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 6998
+gamess sAppRun[2] (#20): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#21): launched 21-th time (pid = 7014)
+gamess sAppRun[2].aiTIDs[0] (#21): thread starts: sAppRun[2].aiTIDs[0] == 7014
+gamess sAppRun[2].aiTIDs[0] == 7014: migrated 33-th time. New cpu affinity mask 0x400
+Pid 6999 exited.
+gamess2 sAppRun[6] (#20): end of a run was detected: sAppRun[6].iPID == 7002. Execution time: 423 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#20): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 7002
+gamess2 sAppRun[6] (#20): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#21): launched 21-th time (pid = 7018)
+gamess2 sAppRun[6].aiTIDs[0] (#21): thread starts: sAppRun[6].aiTIDs[0] == 7018
+gamess2 sAppRun[6].aiTIDs[0] == 7018: migrated 30-th time. New cpu affinity mask 0x40
+Pid 6967 exited.
+namd2 sAppRun[7] (#7): end of a run was detected: sAppRun[7].iPID == 6970. Execution time: 1211 sec.
+namd2 sAppRun[7].aiTIDs[0] (#7): thread finishes due to application's termination: sAppRun[7].aiTIDs[0] == 6970
+namd2 sAppRun[7] (#7): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd2/
+namd2 sAppRun[7] (#8): launched 8-th time (pid = 7022)
+namd2 sAppRun[7].aiTIDs[0] (#8): thread starts: sAppRun[7].aiTIDs[0] == 7022
+namd2 sAppRun[7].aiTIDs[0] == 7022: migrated 19-th time. New cpu affinity mask 0x800
+namd sAppRun[3] (#7): end of a run was detected: sAppRun[3].iPID == 6978. Execution time: 1211 sec.
+namd sAppRun[3].aiTIDs[0] (#7): thread finishes due to application's termination: sAppRun[3].aiTIDs[0] == 6978
+namd sAppRun[3] (#7): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/namd/
+Pid 6975 exited.
+namd sAppRun[3] (#8): launched 8-th time (pid = 7026)
+namd sAppRun[3].aiTIDs[0] (#8): thread starts: sAppRun[3].aiTIDs[0] == 7026
+namd sAppRun[3].aiTIDs[0] == 7026: migrated 18-th time. New cpu affinity mask 0x80
+Pid 7011 exited.
+gamess sAppRun[2] (#21): end of a run was detected: sAppRun[2].iPID == 7014. Execution time: 419 sec.
+gamess sAppRun[2].aiTIDs[0] (#21): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 7014
+gamess sAppRun[2] (#21): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#22): launched 22-th time (pid = 7030)
+gamess sAppRun[2].aiTIDs[0] (#22): thread starts: sAppRun[2].aiTIDs[0] == 7030
+gamess sAppRun[2].aiTIDs[0] == 7030: migrated 34-th time. New cpu affinity mask 0x400
+soplex2 sAppRun[4] (#15): end of a run was detected: sAppRun[4].iPID == 7006. Execution time: 603 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#15): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 7006
+soplex2 sAppRun[4] (#15): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+Pid 7003 exited.
+soplex2 sAppRun[4] (#16): launched 16-th time (pid = 7034)
+gamess2 sAppRun[6].aiTIDs[0] == 7018: migrated 31-th time. New cpu affinity mask 0x8000
+soplex2 sAppRun[4].aiTIDs[0] (#16): thread starts: sAppRun[4].aiTIDs[0] == 7034
+soplex2 sAppRun[4].aiTIDs[0] == 7034: migrated 18-th time. New cpu affinity mask 0x40
+doOptimisticAssignment is launched for threads sAppRun[7].aiTIDs[0] (namd2) and sAppRun[4].aiTIDs[0] (soplex2)
+namd2 sAppRun[7].aiTIDs[0] == 7022: migrated 20-th time. New cpu affinity mask 0x40
+soplex2 sAppRun[4].aiTIDs[0] == 7034: migrated 19-th time. New cpu affinity mask 0x800
+gamess2 sAppRun[6] (#21): end of a run was detected: sAppRun[6].iPID == 7018. Execution time: 423 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#21): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 7018
+Pid 7015 exited.
+gamess2 sAppRun[6] (#21): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#22): launched 22-th time (pid = 7038)
+gamess2 sAppRun[6].aiTIDs[0] (#22): thread starts: sAppRun[6].aiTIDs[0] == 7038
+gamess2 sAppRun[6].aiTIDs[0] == 7038: migrated 32-th time. New cpu affinity mask 0x8000
+Pid 7007 exited.
+soplex sAppRun[0] (#15): end of a run was detected: sAppRun[0].iPID == 7010. Execution time: 530 sec.
+soplex sAppRun[0].aiTIDs[0] (#15): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 7010
+soplex sAppRun[0] (#15): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+soplex sAppRun[0] (#16): launched 16-th time (pid = 7042)
+soplex sAppRun[0].aiTIDs[0] (#16): thread starts: sAppRun[0].aiTIDs[0] == 7042
+soplex sAppRun[0].aiTIDs[0] == 7042: migrated 22-th time. New cpu affinity mask 0x4
+Pid 6946 exited.
+sphinx2 sAppRun[5] (#4): end of a run was detected: sAppRun[5].iPID == 6949. Execution time: 2219 sec.
+sphinx2 sAppRun[5].aiTIDs[0] (#4): thread finishes due to application's termination: sAppRun[5].aiTIDs[0] == 6949
+sphinx2 sAppRun[5] (#4): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/sphinx2/
+namd2 sAppRun[7].aiTIDs[0] == 7022: migrated 21-th time. New cpu affinity mask 0x8
+sphinx2 sAppRun[5] (#5): launched 5-th time (pid = 7046)
+sphinx2 sAppRun[5].aiTIDs[0] (#5): thread starts: sAppRun[5].aiTIDs[0] == 7046
+sphinx2 sAppRun[5].aiTIDs[0] == 7046: migrated 12-th time. New cpu affinity mask 0x40
+doOptimisticAssignment is launched for threads sAppRun[6].aiTIDs[0] (gamess2) and sAppRun[5].aiTIDs[0] (sphinx2)
+gamess2 sAppRun[6].aiTIDs[0] == 7038: migrated 33-th time. New cpu affinity mask 0x40
+sphinx2 sAppRun[5].aiTIDs[0] == 7046: migrated 13-th time. New cpu affinity mask 0x8000
+Pid 7027 exited.
+gamess sAppRun[2] (#22): end of a run was detected: sAppRun[2].iPID == 7030. Execution time: 418 sec.
+gamess sAppRun[2].aiTIDs[0] (#22): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 7030
+gamess sAppRun[2] (#22): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess/
+gamess sAppRun[2] (#23): launched 23-th time (pid = 7050)
+gamess sAppRun[2].aiTIDs[0] (#23): thread starts: sAppRun[2].aiTIDs[0] == 7050
+gamess sAppRun[2].aiTIDs[0] == 7050: migrated 35-th time. New cpu affinity mask 0x400
+Pid 7035 exited.
+gamess2 sAppRun[6] (#22): end of a run was detected: sAppRun[6].iPID == 7038. Execution time: 420 sec.
+gamess2 sAppRun[6].aiTIDs[0] (#22): thread finishes due to application's termination: sAppRun[6].aiTIDs[0] == 7038
+gamess2 sAppRun[6] (#22): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/gamess2/
+gamess2 sAppRun[6] (#23): launched 23-th time (pid = 7054)
+gamess2 sAppRun[6].aiTIDs[0] (#23): thread starts: sAppRun[6].aiTIDs[0] == 7054
+gamess2 sAppRun[6].aiTIDs[0] == 7054: migrated 34-th time. New cpu affinity mask 0x40
+Pid 7039 exited.
+soplex sAppRun[0] (#16): end of a run was detected: sAppRun[0].iPID == 7042. Execution time: 531 sec.
+soplex sAppRun[0].aiTIDs[0] (#16): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 7042
+soplex sAppRun[0] (#16): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex/
+namd2 sAppRun[7].aiTIDs[0] == 7022: migrated 22-th time. New cpu affinity mask 0x4
+soplex sAppRun[0] (#17): launched 17-th time (pid = 7058)
+soplex sAppRun[0].aiTIDs[0] (#17): thread starts: sAppRun[0].aiTIDs[0] == 7058
+soplex sAppRun[0].aiTIDs[0] == 7058: migrated 23-th time. New cpu affinity mask 0x8
+doOptimisticAssignment is launched for threads sAppRun[4].aiTIDs[0] (soplex2) and sAppRun[6].aiTIDs[0] (gamess2)
+soplex2 sAppRun[4].aiTIDs[0] == 7034: migrated 20-th time. New cpu affinity mask 0x40
+gamess2 sAppRun[6].aiTIDs[0] == 7054: migrated 35-th time. New cpu affinity mask 0x800
+soplex2 sAppRun[4] (#16): end of a run was detected: sAppRun[4].iPID == 7034. Execution time: 630 sec.
+soplex2 sAppRun[4].aiTIDs[0] (#16): thread finishes due to application's termination: sAppRun[4].aiTIDs[0] == 7034
+soplex2 sAppRun[4] (#16): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/soplex2/
+Pid 7031 exited.
+namd sAppRun[3].aiTIDs[0] == 7026: migrated 19-th time. New cpu affinity mask 0x40
+soplex2 sAppRun[4] (#17): launched 17-th time (pid = 7063)
+soplex2 sAppRun[4].aiTIDs[0] (#17): thread starts: sAppRun[4].aiTIDs[0] == 7063
+soplex2 sAppRun[4].aiTIDs[0] == 7063: migrated 21-th time. New cpu affinity mask 0x80
+doOptimisticAssignment is launched for threads sAppRun[4].aiTIDs[0] (soplex2) and sAppRun[2].aiTIDs[0] (gamess)
+soplex2 sAppRun[4].aiTIDs[0] == 7063: migrated 22-th time. New cpu affinity mask 0x400
+gamess sAppRun[2].aiTIDs[0] == 7050: migrated 36-th time. New cpu affinity mask 0x80
+Pid 6950 exited.
+sphinx sAppRun[1] (#4): end of a run was detected: sAppRun[1].iPID == 6953. Execution time: 2664 sec.
+sphinx sAppRun[1].aiTIDs[0] (#4): thread finishes due to application's termination: sAppRun[1].aiTIDs[0] == 6953
+sphinx sAppRun[1] (#4): directory was succesfully changed to /home/sba70/SPEC2006-rundirs/sphinx/
+gamess2 sAppRun[6].aiTIDs[0] == 7054: migrated 36-th time. New cpu affinity mask 0x4000
+sphinx sAppRun[1] (#5): launched 5-th time (pid = 7067)
+sphinx sAppRun[1].aiTIDs[0] (#5): thread starts: sAppRun[1].aiTIDs[0] == 7067
+sphinx sAppRun[1].aiTIDs[0] == 7067: migrated 13-th time. New cpu affinity mask 0x800
+doOptimisticAssignment is launched for threads sAppRun[1].aiTIDs[0] (sphinx) and sAppRun[7].aiTIDs[0] (namd2)
+sphinx sAppRun[1].aiTIDs[0] == 7067: migrated 14-th time. New cpu affinity mask 0x4
+namd2 sAppRun[7].aiTIDs[0] == 7022: migrated 23-th time. New cpu affinity mask 0x800
+*** WARNING: wait for zombie 7050 has started.
+*** WARNING: wait for zombie 7050 has finished.
+gamess sAppRun[2] (#23): end of a run was detected: sAppRun[2].iPID == 7050. Execution time: 419 sec.
+gamess sAppRun[2].aiTIDs[0] (#23): thread finishes due to application's termination: sAppRun[2].aiTIDs[0] == 7050
+Sleeper detected all_finished_3_times and finishes.
+Sleeper detected all_finished_3_times and finishes.
+Pid 7047 exited.
+Sleeper detected all_finished_3_times and finishes.
+Sleeper detected all_finished_3_times and finishes.
+Sleeper detected all_finished_3_times and finishes.
+Sleeper detected all_finished_3_times and finishes.
+---------------------------------------------
+sAppRun[0].pszName == soplex:
+570 529 574 589 610 712 708 605 570 546 547 676 526 528 530 531 | total: 9351
+584 out of 16 runs
+sAppRun[1].pszName == sphinx:
+2156 2676 2096 2664 | total: 9592
+2398 out of 4 runs
+sAppRun[2].pszName == gamess:
+418 419 421 418 419 420 423 419 419 419 420 418 420 419 418 420 420 Sleeper detected all_finished_3_times and finishes.
+419 419 418 419 418 419 | total: 9642
+419 out of 23 runs
+sAppRun[3].pszName == namd:
+1216 1213 1211 1212 1214 1211 1211 | total: 8488
+1212 out of 7 runs
+sAppRun[4].pszName == soplex2:
+570 597 584 579 525 699 708 532 544 576 557 554 624 598 603 630 | total: 9480
+592 out of 16 runs
+Sleeper detected all_finished_3_times and finishes.
+sAppRun[5].pszName == sphinx2:
+2124 2714 2031 2219 | total: 9088
+2272 out of 4 runs
+sAppRun[6].pszName == gamess2:
+418 420 419 419 420 418 420 421 420 420 420 420 420 420 419 420 419 423 422 423 423 420 | total: 9244
+420 out of 22 runs
+sAppRun[7].pszName == namd2:
+1209 1210 1207 1208 1213 1211 1211 | total: 8469
+1209 out of 7 runs
