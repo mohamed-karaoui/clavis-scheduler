@@ -1,8 +1,11 @@
 #!/bin/bash
 
 RUNFILE=runfile.txt
+REPORT_DIR="$HOME/.clavis"
 
-gcc -g scheduler.h signal-handling.c scheduler-tools.c scheduler-algorithms.c -o scheduler.out -lnuma -lm -lutil -pthread 
+mkdir -p $REPORT_DIR
+
+gcc -DREPORTS_DIRECTORY="\"$REPORT_DIR\"" -g scheduler.h signal-handling.c scheduler-tools.c scheduler-algorithms.c -o scheduler.out -lnuma -lm -lutil -pthread 
 
 modprobe msr
 

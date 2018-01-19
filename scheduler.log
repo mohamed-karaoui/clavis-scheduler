@@ -1,0 +1,479 @@
+
+
+
+
+
+============================ 1516302736 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 5 seconds later.
+Pid 24174 exited.
+Pid 24178 exited.
+sleep sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/
+sleep sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 100
+
+
+
+
+
+
+============================ 1516302889 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 5 seconds later.
+Pid 30554 exited.
+
+
+
+
+
+============================ 1516302911 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 5 seconds later.
+Pid 31417 exited.
+sleep sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/
+sleep sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 100
+
+sleep sAppRun[0] (#1): launched 1-th time (pid = 31622)
+sleep sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 31622
+
+
+
+
+
+============================ 1516302959 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 5 seconds later.
+Pid 1000 exited.
+
+
+
+
+
+============================ 1516303081 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 5 seconds later.
+Pid 6150 exited.
+sleep sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/
+sleep sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 100
+
+
+
+
+
+
+============================ 1516303109 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 5 seconds later.
+Pid 7356 exited.
+
+
+
+
+
+============================ 1516303120 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 5 seconds later.
+
+
+
+
+
+============================ 1516303221 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 5 seconds later.
+
+
+
+
+
+============================ 1516308518 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 5 seconds later.
+Pid 13886 exited.
+sleep sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/
+sleep sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 100
+
+sleep sAppRun[0] (#1): launched 1-th time (pid = 14035)
+sleep sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 14035
+
+
+
+
+
+============================ 1516308533 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 5 seconds later.
+Pid 14330 exited.
+sleep sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/
+sleep sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 100
+
+sleep sAppRun[0] (#1): launched 1-th time (pid = 14483)
+sleep sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 14483
+
+
+
+
+
+============================ 1516308668 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 2 seconds later.
+Pid 19088 exited.
+sleep sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+sleep sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 100
+
+sleep sAppRun[0] (#1): launched 1-th time (pid = 19159)
+sleep sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 19159
+
+
+
+
+
+============================ 1516308832 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 2 seconds later.
+Pid 24683 exited.
+sleep sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+sleep sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 100
+
+sleep sAppRun[0] (#1): launched 1-th time (pid = 24749)
+sleep sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 24749
+
+
+
+
+
+============================ 1516309076 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 2 seconds later.
+Pid 32538 exited.
+sleep sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+sleep sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 100
+
+sleep sAppRun[0] (#1): launched 1-th time (pid = 32567)
+sleep sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 32567
+
+
+
+
+
+============================ 1516309089 ==============================
+
+
+
+
+sleep sAppRun[0] will be launched 2 seconds later.
+Pid 487 exited.
+sleep sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+sleep sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 100
+
+sleep sAppRun[0] (#1): launched 1-th time (pid = 581)
+sleep sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 581
+Pid 579 exited.
+
+
+
+
+
+============================ 1516309304 ==============================
+
+
+
+
+sleep_test sAppRun[0] will be launched 2 seconds later.
+Pid 7975 exited.
+sleep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+sleep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 4
+
+sleep_test sAppRun[0] (#1): launched 1-th time (pid = 8045)
+sleep_test sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 8045
+Pid 8043 exited.
+sleep_test sAppRun[0] (#1): end of a run was detected: sAppRun[0].iPID == 8045. Execution time: 3 sec.
+sleep_test sAppRun[0].aiTIDs[0] [mpirun was -1] (#1): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 8045. Total sent: 0.000000, total received: 0.000000. Total disk wrote: 0.000000, total disk read: 0.000000.
+---------------------------------------------
+Invocation string: ./scheduler.out d perf Xeon_X5570_woHT runfile.txt st once fixedInvocation string: ./scheduler.out d perf Xeon
+---------------------------------------------
+perc: 0.300000, REFRESH_PERIOD: 1000000
+---------------------------------------------
+MIGRATION_TYPE: 0, PAGES: 4096, BACKWARDS: 1, RANDOM: 0, IBS_INTERVAL: 10000, MIGRATE_WHOLE_MEMORY_TYPE: 1
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+
+sleep_test (active_intervals: 0)
+3 
+
+
+
+
+============================ 1516374598 ==============================
+
+
+
+
+sleep_test sAppRun[0] will be launched 2 seconds later.
+Pid 29947 exited.
+sleep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+sleep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 4
+
+sleep_test sAppRun[0] (#1): launched 1-th time (pid = 29952)
+sleep_test sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 29952
+Pid 29950 exited.
+sleep_test sAppRun[0] (#1): end of a run was detected: sAppRun[0].iPID == 29952. Execution time: 2 sec.
+sleep_test sAppRun[0].aiTIDs[0] [mpirun was -1] (#1): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 29952. Total sent: 0.000000, total received: 0.000000. Total disk wrote: 0.000000, total disk read: 0.000000.
+---------------------------------------------
+Invocation string: ./scheduler.out d perf Xeon_X5570_woHT runfile.txt st once fixedInvocation string: ./scheduler.out d perf Xeon
+---------------------------------------------
+perc: 0.300000, REFRESH_PERIOD: 1000000
+---------------------------------------------
+MIGRATION_TYPE: 0, PAGES: 4096, BACKWARDS: 1, RANDOM: 0, IBS_INTERVAL: 10000, MIGRATE_WHOLE_MEMORY_TYPE: 1
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+
+sleep_test (active_intervals: 0)
+2 
+
+
+
+
+============================ 1516374665 ==============================
+
+
+
+
+sleep_test sAppRun[0] will be launched 2 seconds later.
+Pid 29988 exited.
+sleep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+sleep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 4
+
+sleep_test sAppRun[0] (#1): launched 1-th time (pid = 29994)
+sleep_test sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 29994
+Pid 29992 exited.
+sleep_test sAppRun[0] (#1): end of a run was detected: sAppRun[0].iPID == 29994. Execution time: 2 sec.
+sleep_test sAppRun[0].aiTIDs[0] [mpirun was -1] (#1): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 29994. Total sent: 0.000000, total received: 0.000000. Total disk wrote: 0.000000, total disk read: 0.000000.
+---------------------------------------------
+Invocation string: ./scheduler.out d perf Xeon_X5570_woHT runfile.txt st once fixedInvocation string: ./scheduler.out d perf Xeon
+---------------------------------------------
+perc: 0.300000, REFRESH_PERIOD: 1000000
+---------------------------------------------
+MIGRATION_TYPE: 0, PAGES: 4096, BACKWARDS: 1, RANDOM: 0, IBS_INTERVAL: 10000, MIGRATE_WHOLE_MEMORY_TYPE: 1
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+
+sleep_test (active_intervals: 0)
+2 
+
+
+
+
+============================ 1516374776 ==============================
+
+
+
+
+sleep_test sAppRun[0] will be launched 2 seconds later.
+Pid 30093 exited.
+sleep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+sleep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append sleep 4
+
+sleep_test sAppRun[0] (#1): launched 1-th time (pid = 30099)
+sleep_test sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 30099
+Pid 30097 exited.
+sleep_test sAppRun[0] (#1): end of a run was detected: sAppRun[0].iPID == 30099. Execution time: 2 sec.
+sleep_test sAppRun[0].aiTIDs[0] [mpirun was -1] (#1): thread finishes due to application's termination: sAppRun[0].aiTIDs[0] == 30099. Total sent: 0.000000, total received: 0.000000. Total disk wrote: 0.000000, total disk read: 0.000000.
+---------------------------------------------
+Invocation string: ./scheduler.out d perf Xeon_X5570_woHT runfile.txt st once fixedInvocation string: ./scheduler.out d perf Xeon
+---------------------------------------------
+perc: 0.300000, REFRESH_PERIOD: 1000000
+---------------------------------------------
+MIGRATION_TYPE: 0, PAGES: 4096, BACKWARDS: 1, RANDOM: 0, IBS_INTERVAL: 10000, MIGRATE_WHOLE_MEMORY_TYPE: 1
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+
+sleep_test (active_intervals: 0)
+2 
+
+
+
+
+============================ 1516374826 ==============================
+
+
+
+
+grep_test sAppRun[0] will be launched 2 seconds later.
+Pid 30181 exited.
+grep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+grep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append grep "__im-possible__" /
+
+Pid 30184 exited.
+
+
+
+
+
+============================ 1516374844 ==============================
+
+
+
+
+grep_test sAppRun[0] will be launched 2 seconds later.
+Pid 30205 exited.
+grep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+grep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append grep -r "__im-possible__" /
+
+grep_test sAppRun[0] (#1): launched 1-th time (pid = 30227)
+grep_test sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 30227
+
+
+
+
+
+============================ 1516374929 ==============================
+
+
+
+
+grep_test sAppRun[0] will be launched 2 seconds later.
+Pid 30275 exited.
+grep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+grep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append grep -r "__im-possible__" / 2>/dev/null
+
+grep_test sAppRun[0] (#1): launched 1-th time (pid = 30279)
+grep_test sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 30279
+
+
+
+
+
+============================ 1516375606 ==============================
+
+
+
+
+grep_test sAppRun[0] will be launched 2 seconds later.
+Pid 30632 exited.
+grep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+grep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append grep -r "__im-possible__" / 2>/dev/null
+
+grep_test sAppRun[0] (#1): launched 1-th time (pid = 30670)
+grep_test sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 30670
+
+
+
+
+
+============================ 1516377736 ==============================
+
+
+
+
+grep_test sAppRun[0] will be launched 2 seconds later.
+Pid 31764 exited.
+grep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+grep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append grep -r "__im-possible__" /home/ 2>/dev/null
+
+grep_test sAppRun[0] (#1): launched 1-th time (pid = 31768)
+grep_test sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 31768
+
+
+
+
+
+============================ 1516377752 ==============================
+
+
+
+
+grep_test sAppRun[0] will be launched 2 seconds later.
+Pid 31784 exited.
+grep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+grep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append grep -r "__im-possible__" /home/ 2>/dev/null
+
+
+
+
+
+
+============================ 1516377761 ==============================
+
+
+
+
+grep_test sAppRun[0] will be launched 2 seconds later.
+Pid 31798 exited.
+grep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+grep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append grep -r "__im-possible__" /home/ 2>/dev/null
+
+grep_test sAppRun[0] (#1): launched 1-th time (pid = 31802)
+grep_test sAppRun[0].aiTIDs[0] (#1): thread starts: sAppRun[0].aiTIDs[0] == 31802
+
+
+
+
+
+============================ 1516377837 ==============================
+
+
+
+
+grep_test sAppRun[0] will be launched 2 seconds later.
+Pid 31878 exited.
+grep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+grep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append grep -r "__im-possible__" /home/ 2>/dev/null
+
+
+
+
+
+
+============================ 1516377886 ==============================
+
+
+
+
+grep_test sAppRun[0] will be launched 2 seconds later.
+Pid 31914 exited.
+grep_test sAppRun[0] (#0): directory was succesfully changed to /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+grep_test sAppRun[0] (#0): invocation string is /usr/bin/time -f "%e - %U user %S system %E elapsed - that was %C " -o /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5/time.log --append grep -r "__im-possible__" /home/ 2>/dev/null
+

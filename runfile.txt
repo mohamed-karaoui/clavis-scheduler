@@ -1,24 +1,6 @@
-lbm 5 ./lbm_base.amd64-m64-gcc43-nn 3000 reference.dat 0 0 100_100_130_ldc.of > lbm.out 2>> lbm.err
-***rundir /home/sba70/SPEC2006-rundirs/lbm/
-***thread 0 [1]
-gobmk 10 ./gobmk_base.amd64-m64-gcc43-nn --quiet --mode gtp < nngs.tst > nngs.out 2>> nngs.err
-***rundir /home/sba70/SPEC2006-rundirs/gobmk/
-***thread 0 [5.72]
-sphinx 15 ./sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4 > an4.log 2>> an4.err
-***rundir /home/sba70/SPEC2006-rundirs/sphinx/
-***thread 0 [134.23]
-milc 20 ./milc_base.amd64-m64-gcc43-nn < su3imp.in > su3imp.out 2>> su3imp.err
-***rundir /home/sba70/SPEC2006-rundirs/milc/
-***thread 0 [213.14]
-lbm2 25 ./lbm_base.amd64-m64-gcc43-nn 3000 reference.dat 0 0 100_100_130_ldc.of > lbm.out 2>> lbm.err
-***rundir /home/sba70/SPEC2006-rundirs/lbm2/
-***thread 0 [271.79]
-gobmk2 30 ./gobmk_base.amd64-m64-gcc43-nn --quiet --mode gtp < nngs.tst > nngs.out 2>> nngs.err
-***rundir /home/sba70/SPEC2006-rundirs/gobmk2/
-***thread 0 [5.72]
-sphinx2 35 ./sphinx_livepretend_base.amd64-m64-gcc43-nn ctlfile . args.an4 > an4.log 2>> an4.err
-***rundir /home/sba70/SPEC2006-rundirs/sphinx2/
-***thread 0 [134.23]
-milc2 40 ./milc_base.amd64-m64-gcc43-nn < su3imp.in > su3imp.out 2>> su3imp.err
-***rundir /home/sba70/SPEC2006-rundirs/milc2/
-***thread 0 [213.14]
+grep_test 2 grep -r "__im-possible__" /home/ 2>/dev/null
+***rundir /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+***thread 0 [2]
+find_test 4 find /home/ -name "__long-name-im-possible__"
+***rundir /home/mohamed/research/hetero_sched/clavis/clavis-src-6.5.5
+***thread 0 [3]

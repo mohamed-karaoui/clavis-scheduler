@@ -157,7 +157,10 @@
 // as seen in nethogs columns, in Kb/s
 #define NETWORK_TRAFFIC_HORIZON 1000
 
-#define REPORTS_DIRECTORY "/root/clavis-src-6.5.5/"
+#ifndef REPORTS_DIRECTORY
+#error "please use GCC -D option to set this variable"
+#define REPORTS_DIRECTORY "/home/clavis/"
+#endif
 
 #define MAX_SHARED_CACHES_NUMBER 4
 #define MAX_CORES_PER_SHARED_CACHE 12
